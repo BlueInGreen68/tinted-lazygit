@@ -1,0 +1,35 @@
+#
+#
+# name: Everforest
+# author: Sainnhe Park (https://github.com/sainnhe)
+# slug: everforest
+# slug-underscored: everforest
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7fbbb3'
+      - bold
+    inactiveBorderColor:
+      - '#859289'
+    searchingActiveBorderColor:
+      - '#e69875'
+    optionsTextColor:
+      - '#7fbbb3'
+    selectedLineBgColor:
+      - '#475258'
+    cherryPickedCommitBgColor:
+      - '#859289'
+    cherryPickedCommitFgColor:
+      - '#7fbbb3'
+    markedBaseCommitFgColor:
+      - '#7fbbb3'
+    unstagedChangesColor:
+      - '#e67e80'
+    defaultFgColor:
+      - '#d3c6aa'

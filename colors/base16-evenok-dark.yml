@@ -1,0 +1,35 @@
+#
+#
+# name: Evenok Dark
+# author: Mekeor Melire
+# slug: evenok-dark
+# slug-underscored: evenok_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00aff2'
+      - bold
+    inactiveBorderColor:
+      - '#505050'
+    searchingActiveBorderColor:
+      - '#ee8122'
+    optionsTextColor:
+      - '#00aff2'
+    selectedLineBgColor:
+      - '#303030'
+    cherryPickedCommitBgColor:
+      - '#505050'
+    cherryPickedCommitFgColor:
+      - '#00aff2'
+    markedBaseCommitFgColor:
+      - '#00aff2'
+    unstagedChangesColor:
+      - '#f5708a'
+    defaultFgColor:
+      - '#d0d0d0'

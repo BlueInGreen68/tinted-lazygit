@@ -1,0 +1,35 @@
+#
+#
+# name: Eighties
+# author: Chris Kempson (http://chriskempson.com)
+# slug: eighties
+# slug-underscored: eighties
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6699cc'
+      - bold
+    inactiveBorderColor:
+      - '#747369'
+    searchingActiveBorderColor:
+      - '#f99157'
+    optionsTextColor:
+      - '#6699cc'
+    selectedLineBgColor:
+      - '#515151'
+    cherryPickedCommitBgColor:
+      - '#747369'
+    cherryPickedCommitFgColor:
+      - '#6699cc'
+    markedBaseCommitFgColor:
+      - '#6699cc'
+    unstagedChangesColor:
+      - '#f2777a'
+    defaultFgColor:
+      - '#d3d0c8'

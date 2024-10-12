@@ -1,0 +1,35 @@
+#
+#
+# name: lime
+# author: limelier
+# slug: lime
+# slug-underscored: lime
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2b926f'
+      - bold
+    inactiveBorderColor:
+      - '#313140'
+    searchingActiveBorderColor:
+      - '#ff773a'
+    optionsTextColor:
+      - '#2b926f'
+    selectedLineBgColor:
+      - '#2a2a3f'
+    cherryPickedCommitBgColor:
+      - '#313140'
+    cherryPickedCommitFgColor:
+      - '#2b926f'
+    markedBaseCommitFgColor:
+      - '#2b926f'
+    unstagedChangesColor:
+      - '#ff662a'
+    defaultFgColor:
+      - '#818175'

@@ -1,0 +1,35 @@
+#
+#
+# name: Horizon Light
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-light
+# slug-underscored: horizon_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#DA103F'
+      - bold
+    inactiveBorderColor:
+      - '#BDB3B1'
+    searchingActiveBorderColor:
+      - '#F6661E'
+    optionsTextColor:
+      - '#DA103F'
+    selectedLineBgColor:
+      - '#F9CBBE'
+    cherryPickedCommitBgColor:
+      - '#BDB3B1'
+    cherryPickedCommitFgColor:
+      - '#DA103F'
+    markedBaseCommitFgColor:
+      - '#DA103F'
+    unstagedChangesColor:
+      - '#F7939B'
+    defaultFgColor:
+      - '#403C3D'

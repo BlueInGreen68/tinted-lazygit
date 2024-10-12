@@ -1,0 +1,35 @@
+#
+#
+# name: Horizon Dark
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-dark
+# slug-underscored: horizon_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#DF5273'
+      - bold
+    inactiveBorderColor:
+      - '#6F6F70'
+    searchingActiveBorderColor:
+      - '#E58D7D'
+    optionsTextColor:
+      - '#DF5273'
+    selectedLineBgColor:
+      - '#2E303E'
+    cherryPickedCommitBgColor:
+      - '#6F6F70'
+    cherryPickedCommitFgColor:
+      - '#DF5273'
+    markedBaseCommitFgColor:
+      - '#DF5273'
+    unstagedChangesColor:
+      - '#E93C58'
+    defaultFgColor:
+      - '#CBCED0'

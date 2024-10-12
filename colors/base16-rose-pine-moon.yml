@@ -1,0 +1,35 @@
+#
+#
+# name: Rosé Pine Moon
+# author: Emilia Dunfelt <edun@dunfelt.se>
+# slug: rose-pine-moon
+# slug-underscored: rose_pine_moon
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c4a7e7'
+      - bold
+    inactiveBorderColor:
+      - '#6e6a86'
+    searchingActiveBorderColor:
+      - '#f6c177'
+    optionsTextColor:
+      - '#c4a7e7'
+    selectedLineBgColor:
+      - '#393552'
+    cherryPickedCommitBgColor:
+      - '#6e6a86'
+    cherryPickedCommitFgColor:
+      - '#c4a7e7'
+    markedBaseCommitFgColor:
+      - '#c4a7e7'
+    unstagedChangesColor:
+      - '#eb6f92'
+    defaultFgColor:
+      - '#e0def4'

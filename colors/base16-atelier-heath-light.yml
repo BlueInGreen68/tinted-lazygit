@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Heath Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-heath-light
+# slug-underscored: atelier_heath_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#516aec'
+      - bold
+    inactiveBorderColor:
+      - '#9e8f9e'
+    searchingActiveBorderColor:
+      - '#a65926'
+    optionsTextColor:
+      - '#516aec'
+    selectedLineBgColor:
+      - '#ab9bab'
+    cherryPickedCommitBgColor:
+      - '#9e8f9e'
+    cherryPickedCommitFgColor:
+      - '#516aec'
+    markedBaseCommitFgColor:
+      - '#516aec'
+    unstagedChangesColor:
+      - '#ca402b'
+    defaultFgColor:
+      - '#695d69'

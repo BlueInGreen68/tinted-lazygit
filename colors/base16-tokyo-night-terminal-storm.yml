@@ -1,0 +1,35 @@
+#
+#
+# name: Tokyo Night Terminal Storm
+# author: Michaël Ball
+# slug: tokyo-night-terminal-storm
+# slug-underscored: tokyo_night_terminal_storm
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7AA2F7'
+      - bold
+    inactiveBorderColor:
+      - '#444B6A'
+    searchingActiveBorderColor:
+      - '#FF9E64'
+    optionsTextColor:
+      - '#7AA2F7'
+    selectedLineBgColor:
+      - '#343A52'
+    cherryPickedCommitBgColor:
+      - '#444B6A'
+    cherryPickedCommitFgColor:
+      - '#7AA2F7'
+    markedBaseCommitFgColor:
+      - '#7AA2F7'
+    unstagedChangesColor:
+      - '#F7768E'
+    defaultFgColor:
+      - '#787C99'

@@ -1,0 +1,35 @@
+#
+#
+# name: Horizon Terminal Dark
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-terminal-dark
+# slug-underscored: horizon_terminal_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#26BBD9'
+      - bold
+    inactiveBorderColor:
+      - '#6F6F70'
+    searchingActiveBorderColor:
+      - '#FAB795'
+    optionsTextColor:
+      - '#26BBD9'
+    selectedLineBgColor:
+      - '#2E303E'
+    cherryPickedCommitBgColor:
+      - '#6F6F70'
+    cherryPickedCommitFgColor:
+      - '#26BBD9'
+    markedBaseCommitFgColor:
+      - '#26BBD9'
+    unstagedChangesColor:
+      - '#E95678'
+    defaultFgColor:
+      - '#CBCED0'

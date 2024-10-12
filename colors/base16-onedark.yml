@@ -1,0 +1,35 @@
+#
+#
+# name: OneDark
+# author: Lalit Magant (http://github.com/tilal6991)
+# slug: onedark
+# slug-underscored: onedark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#61afef'
+      - bold
+    inactiveBorderColor:
+      - '#545862'
+    searchingActiveBorderColor:
+      - '#d19a66'
+    optionsTextColor:
+      - '#61afef'
+    selectedLineBgColor:
+      - '#3e4451'
+    cherryPickedCommitBgColor:
+      - '#545862'
+    cherryPickedCommitFgColor:
+      - '#61afef'
+    markedBaseCommitFgColor:
+      - '#61afef'
+    unstagedChangesColor:
+      - '#e06c75'
+    defaultFgColor:
+      - '#abb2bf'

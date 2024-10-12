@@ -1,0 +1,35 @@
+#
+#
+# name: Primer Dark
+# author: Jimmy Lin
+# slug: primer-dark
+# slug-underscored: primer_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#58a6ff'
+      - bold
+    inactiveBorderColor:
+      - '#484f58'
+    searchingActiveBorderColor:
+      - '#f0883e'
+    optionsTextColor:
+      - '#58a6ff'
+    selectedLineBgColor:
+      - '#30363d'
+    cherryPickedCommitBgColor:
+      - '#484f58'
+    cherryPickedCommitFgColor:
+      - '#58a6ff'
+    markedBaseCommitFgColor:
+      - '#58a6ff'
+    unstagedChangesColor:
+      - '#ff7b72'
+    defaultFgColor:
+      - '#b1bac4'

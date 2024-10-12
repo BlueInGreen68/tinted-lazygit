@@ -1,0 +1,35 @@
+#
+#
+# name: Material Darker
+# author: Nate Peterson
+# slug: material-darker
+# slug-underscored: material_darker
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82AAFF'
+      - bold
+    inactiveBorderColor:
+      - '#4A4A4A'
+    searchingActiveBorderColor:
+      - '#F78C6C'
+    optionsTextColor:
+      - '#82AAFF'
+    selectedLineBgColor:
+      - '#353535'
+    cherryPickedCommitBgColor:
+      - '#4A4A4A'
+    cherryPickedCommitFgColor:
+      - '#82AAFF'
+    markedBaseCommitFgColor:
+      - '#82AAFF'
+    unstagedChangesColor:
+      - '#F07178'
+    defaultFgColor:
+      - '#EEFFFF'

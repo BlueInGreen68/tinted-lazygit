@@ -1,0 +1,35 @@
+#
+#
+# name: OceanicNext
+# author: https://github.com/voronianski/oceanic-next-color-scheme
+# slug: oceanicnext
+# slug-underscored: oceanicnext
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6699CC'
+      - bold
+    inactiveBorderColor:
+      - '#65737E'
+    searchingActiveBorderColor:
+      - '#F99157'
+    optionsTextColor:
+      - '#6699CC'
+    selectedLineBgColor:
+      - '#4F5B66'
+    cherryPickedCommitBgColor:
+      - '#65737E'
+    cherryPickedCommitFgColor:
+      - '#6699CC'
+    markedBaseCommitFgColor:
+      - '#6699CC'
+    unstagedChangesColor:
+      - '#EC5f67'
+    defaultFgColor:
+      - '#C0C5CE'

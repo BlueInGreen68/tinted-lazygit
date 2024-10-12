@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Dune
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-dune
+# slug-underscored: atelier_dune
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6684e1'
+      - bold
+    inactiveBorderColor:
+      - '#7d7a68'
+    searchingActiveBorderColor:
+      - '#b65611'
+    optionsTextColor:
+      - '#6684e1'
+    selectedLineBgColor:
+      - '#6e6b5e'
+    cherryPickedCommitBgColor:
+      - '#7d7a68'
+    cherryPickedCommitFgColor:
+      - '#6684e1'
+    markedBaseCommitFgColor:
+      - '#6684e1'
+    unstagedChangesColor:
+      - '#d73737'
+    defaultFgColor:
+      - '#a6a28c'

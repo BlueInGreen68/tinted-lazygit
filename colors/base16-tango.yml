@@ -1,0 +1,35 @@
+#
+#
+# name: Tango
+# author: @Schnouki, based on the Tango Desktop Project
+# slug: tango
+# slug-underscored: tango
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3465a4'
+      - bold
+    inactiveBorderColor:
+      - '#555753'
+    searchingActiveBorderColor:
+      - '#ef2929'
+    optionsTextColor:
+      - '#3465a4'
+    selectedLineBgColor:
+      - '#fce94f'
+    cherryPickedCommitBgColor:
+      - '#555753'
+    cherryPickedCommitFgColor:
+      - '#3465a4'
+    markedBaseCommitFgColor:
+      - '#3465a4'
+    unstagedChangesColor:
+      - '#cc0000'
+    defaultFgColor:
+      - '#d3d7cf'

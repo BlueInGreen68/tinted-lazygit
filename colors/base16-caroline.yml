@@ -1,0 +1,35 @@
+#
+#
+# name: caroline
+# author: ed (https://codeberg.org/ed)
+# slug: caroline
+# slug-underscored: caroline
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#684c59'
+      - bold
+    inactiveBorderColor:
+      - '#6d4745'
+    searchingActiveBorderColor:
+      - '#a63650'
+    optionsTextColor:
+      - '#684c59'
+    selectedLineBgColor:
+      - '#563837'
+    cherryPickedCommitBgColor:
+      - '#6d4745'
+    cherryPickedCommitFgColor:
+      - '#684c59'
+    markedBaseCommitFgColor:
+      - '#684c59'
+    unstagedChangesColor:
+      - '#c24f57'
+    defaultFgColor:
+      - '#a87569'

@@ -1,0 +1,35 @@
+#
+#
+# name: Tokyo City Terminal Light
+# author: Michaël Ball
+# slug: tokyo-city-terminal-light
+# slug-underscored: tokyo_city_terminal_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#34548A'
+      - bold
+    inactiveBorderColor:
+      - '#B7C5D3'
+    searchingActiveBorderColor:
+      - '#965027'
+    optionsTextColor:
+      - '#34548A'
+    selectedLineBgColor:
+      - '#D8E2EC'
+    cherryPickedCommitBgColor:
+      - '#B7C5D3'
+    cherryPickedCommitFgColor:
+      - '#34548A'
+    markedBaseCommitFgColor:
+      - '#34548A'
+    unstagedChangesColor:
+      - '#8C4351'
+    defaultFgColor:
+      - '#28323A'

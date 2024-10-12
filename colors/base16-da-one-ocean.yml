@@ -1,0 +1,35 @@
+#
+#
+# name: Da One Ocean
+# author: NNB (https://github.com/NNBnh)
+# slug: da-one-ocean
+# slug-underscored: da_one_ocean
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6bb8ff'
+      - bold
+    inactiveBorderColor:
+      - '#878d96'
+    searchingActiveBorderColor:
+      - '#ffc387'
+    optionsTextColor:
+      - '#6bb8ff'
+    selectedLineBgColor:
+      - '#525866'
+    cherryPickedCommitBgColor:
+      - '#878d96'
+    cherryPickedCommitFgColor:
+      - '#6bb8ff'
+    markedBaseCommitFgColor:
+      - '#6bb8ff'
+    unstagedChangesColor:
+      - '#fa7883'
+    defaultFgColor:
+      - '#ffffff'

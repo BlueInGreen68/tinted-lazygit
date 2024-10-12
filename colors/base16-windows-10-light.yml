@@ -1,0 +1,35 @@
+#
+#
+# name: Windows 10 Light
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-10-light
+# slug-underscored: windows_10_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0037da'
+      - bold
+    inactiveBorderColor:
+      - '#cccccc'
+    searchingActiveBorderColor:
+      - '#f9f1a5'
+    optionsTextColor:
+      - '#0037da'
+    selectedLineBgColor:
+      - '#d9d9d9'
+    cherryPickedCommitBgColor:
+      - '#cccccc'
+    cherryPickedCommitFgColor:
+      - '#0037da'
+    markedBaseCommitFgColor:
+      - '#0037da'
+    unstagedChangesColor:
+      - '#c50f1f'
+    defaultFgColor:
+      - '#767676'

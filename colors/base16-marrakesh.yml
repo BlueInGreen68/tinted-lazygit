@@ -1,0 +1,35 @@
+#
+#
+# name: Marrakesh
+# author: Alexandre Gavioli (http://github.com/Alexx2/)
+# slug: marrakesh
+# slug-underscored: marrakesh
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#477ca1'
+      - bold
+    inactiveBorderColor:
+      - '#6c6823'
+    searchingActiveBorderColor:
+      - '#b36144'
+    optionsTextColor:
+      - '#477ca1'
+    selectedLineBgColor:
+      - '#5f5b17'
+    cherryPickedCommitBgColor:
+      - '#6c6823'
+    cherryPickedCommitFgColor:
+      - '#477ca1'
+    markedBaseCommitFgColor:
+      - '#477ca1'
+    unstagedChangesColor:
+      - '#c35359'
+    defaultFgColor:
+      - '#948e48'

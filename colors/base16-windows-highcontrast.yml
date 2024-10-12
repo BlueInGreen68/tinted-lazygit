@@ -1,0 +1,35 @@
+#
+#
+# name: Windows High Contrast
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-highcontrast
+# slug-underscored: windows_highcontrast
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5454fc'
+      - bold
+    inactiveBorderColor:
+      - '#545454'
+    searchingActiveBorderColor:
+      - '#808000'
+    optionsTextColor:
+      - '#5454fc'
+    selectedLineBgColor:
+      - '#383838'
+    cherryPickedCommitBgColor:
+      - '#545454'
+    cherryPickedCommitFgColor:
+      - '#5454fc'
+    markedBaseCommitFgColor:
+      - '#5454fc'
+    unstagedChangesColor:
+      - '#fc5454'
+    defaultFgColor:
+      - '#c0c0c0'

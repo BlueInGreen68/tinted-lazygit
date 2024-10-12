@@ -1,0 +1,35 @@
+#
+#
+# name: DanQing Light
+# author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# slug: danqing-light
+# slug-underscored: danqing_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#B0A4E3'
+      - bold
+    inactiveBorderColor:
+      - '#cad8d2'
+    searchingActiveBorderColor:
+      - '#B38A61'
+    optionsTextColor:
+      - '#B0A4E3'
+    selectedLineBgColor:
+      - '#e0f0eF'
+    cherryPickedCommitBgColor:
+      - '#cad8d2'
+    cherryPickedCommitFgColor:
+      - '#B0A4E3'
+    markedBaseCommitFgColor:
+      - '#B0A4E3'
+    unstagedChangesColor:
+      - '#F9906F'
+    defaultFgColor:
+      - '#5a605d'

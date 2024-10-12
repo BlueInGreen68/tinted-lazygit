@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Lakeside Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-lakeside-light
+# slug-underscored: atelier_lakeside_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#257fad'
+      - bold
+    inactiveBorderColor:
+      - '#7195a8'
+    searchingActiveBorderColor:
+      - '#935c25'
+    optionsTextColor:
+      - '#257fad'
+    selectedLineBgColor:
+      - '#7ea2b4'
+    cherryPickedCommitBgColor:
+      - '#7195a8'
+    cherryPickedCommitFgColor:
+      - '#257fad'
+    markedBaseCommitFgColor:
+      - '#257fad'
+    unstagedChangesColor:
+      - '#d22d72'
+    defaultFgColor:
+      - '#516d7b'

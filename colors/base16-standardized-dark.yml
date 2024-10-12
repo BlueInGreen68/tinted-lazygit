@@ -1,0 +1,35 @@
+#
+#
+# name: standardized-dark
+# author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+# slug: standardized-dark
+# slug-underscored: standardized_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00a3f2'
+      - bold
+    inactiveBorderColor:
+      - '#898989'
+    searchingActiveBorderColor:
+      - '#fc804e'
+    optionsTextColor:
+      - '#00a3f2'
+    selectedLineBgColor:
+      - '#555555'
+    cherryPickedCommitBgColor:
+      - '#898989'
+    cherryPickedCommitFgColor:
+      - '#00a3f2'
+    markedBaseCommitFgColor:
+      - '#00a3f2'
+    unstagedChangesColor:
+      - '#e15d67'
+    defaultFgColor:
+      - '#c0c0c0'

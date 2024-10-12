@@ -1,0 +1,35 @@
+#
+#
+# name: Nebula
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: nebula
+# slug-underscored: nebula
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4d6bb6'
+      - bold
+    inactiveBorderColor:
+      - '#6e6f72'
+    searchingActiveBorderColor:
+      - '#94929e'
+    optionsTextColor:
+      - '#4d6bb6'
+    selectedLineBgColor:
+      - '#5a8380'
+    cherryPickedCommitBgColor:
+      - '#6e6f72'
+    cherryPickedCommitFgColor:
+      - '#4d6bb6'
+    markedBaseCommitFgColor:
+      - '#4d6bb6'
+    unstagedChangesColor:
+      - '#777abc'
+    defaultFgColor:
+      - '#a4a6a9'

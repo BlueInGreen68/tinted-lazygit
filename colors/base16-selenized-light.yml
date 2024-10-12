@@ -1,0 +1,35 @@
+#
+#
+# name: selenized-light
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-light
+# slug-underscored: selenized_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#006dce'
+      - bold
+    inactiveBorderColor:
+      - '#909995'
+    searchingActiveBorderColor:
+      - '#bc5819'
+    optionsTextColor:
+      - '#006dce'
+    selectedLineBgColor:
+      - '#d5cdb6'
+    cherryPickedCommitBgColor:
+      - '#909995'
+    cherryPickedCommitFgColor:
+      - '#006dce'
+    markedBaseCommitFgColor:
+      - '#006dce'
+    unstagedChangesColor:
+      - '#cc1729'
+    defaultFgColor:
+      - '#53676d'

@@ -1,0 +1,35 @@
+#
+#
+# name: Cupertino
+# author: Defman21
+# slug: cupertino
+# slug-underscored: cupertino
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0000ff'
+      - bold
+    inactiveBorderColor:
+      - '#808080'
+    searchingActiveBorderColor:
+      - '#eb8500'
+    optionsTextColor:
+      - '#0000ff'
+    selectedLineBgColor:
+      - '#c0c0c0'
+    cherryPickedCommitBgColor:
+      - '#808080'
+    cherryPickedCommitFgColor:
+      - '#0000ff'
+    markedBaseCommitFgColor:
+      - '#0000ff'
+    unstagedChangesColor:
+      - '#c41a15'
+    defaultFgColor:
+      - '#404040'

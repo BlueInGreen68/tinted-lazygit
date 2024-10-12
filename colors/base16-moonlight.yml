@@ -1,0 +1,35 @@
+#
+#
+# name: Moonlight
+# author: Jeremy Swinarton (https://github.com/jswinarton)
+# slug: moonlight
+# slug-underscored: moonlight
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#40ffff'
+      - bold
+    inactiveBorderColor:
+      - '#748cd6'
+    searchingActiveBorderColor:
+      - '#f67f81'
+    optionsTextColor:
+      - '#40ffff'
+    selectedLineBgColor:
+      - '#596399'
+    cherryPickedCommitBgColor:
+      - '#748cd6'
+    cherryPickedCommitFgColor:
+      - '#40ffff'
+    markedBaseCommitFgColor:
+      - '#40ffff'
+    unstagedChangesColor:
+      - '#ff5370'
+    defaultFgColor:
+      - '#a3ace1'

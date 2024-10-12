@@ -1,0 +1,35 @@
+#
+#
+# name: Fruit Soda
+# author: jozip
+# slug: fruit-soda
+# slug-underscored: fruit_soda
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2931df'
+      - bold
+    inactiveBorderColor:
+      - '#b5b4b6'
+    searchingActiveBorderColor:
+      - '#fe6d08'
+    optionsTextColor:
+      - '#2931df'
+    selectedLineBgColor:
+      - '#d8d5d5'
+    cherryPickedCommitBgColor:
+      - '#b5b4b6'
+    cherryPickedCommitFgColor:
+      - '#2931df'
+    markedBaseCommitFgColor:
+      - '#2931df'
+    unstagedChangesColor:
+      - '#fe3e31'
+    defaultFgColor:
+      - '#515151'

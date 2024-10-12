@@ -1,0 +1,35 @@
+#
+#
+# name: Equilibrium Light
+# author: Carlo Abelli
+# slug: equilibrium-light
+# slug-underscored: equilibrium_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0073b5'
+      - bold
+    inactiveBorderColor:
+      - '#73777f'
+    searchingActiveBorderColor:
+      - '#bf3e05'
+    optionsTextColor:
+      - '#0073b5'
+    selectedLineBgColor:
+      - '#d8d4cb'
+    cherryPickedCommitBgColor:
+      - '#73777f'
+    cherryPickedCommitFgColor:
+      - '#0073b5'
+    markedBaseCommitFgColor:
+      - '#0073b5'
+    unstagedChangesColor:
+      - '#d02023'
+    defaultFgColor:
+      - '#43474e'

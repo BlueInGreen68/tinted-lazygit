@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Savanna
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-savanna
+# slug-underscored: atelier_savanna
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#478c90'
+      - bold
+    inactiveBorderColor:
+      - '#5f6d64'
+    searchingActiveBorderColor:
+      - '#9f713c'
+    optionsTextColor:
+      - '#478c90'
+    selectedLineBgColor:
+      - '#526057'
+    cherryPickedCommitBgColor:
+      - '#5f6d64'
+    cherryPickedCommitFgColor:
+      - '#478c90'
+    markedBaseCommitFgColor:
+      - '#478c90'
+    unstagedChangesColor:
+      - '#b16139'
+    defaultFgColor:
+      - '#87928a'

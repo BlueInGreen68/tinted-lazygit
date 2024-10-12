@@ -1,0 +1,35 @@
+#
+#
+# name: Still Alive
+# author: Derrick McKee (derrick.mckee@gmail.com)
+# slug: still-alive
+# slug-underscored: still_alive
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#001878'
+      - bold
+    inactiveBorderColor:
+      - '#F01818'
+    searchingActiveBorderColor:
+      - '#183048'
+    optionsTextColor:
+      - '#001878'
+    selectedLineBgColor:
+      - '#FFF018'
+    cherryPickedCommitBgColor:
+      - '#F01818'
+    cherryPickedCommitFgColor:
+      - '#001878'
+    markedBaseCommitFgColor:
+      - '#001878'
+    unstagedChangesColor:
+      - '#487830'
+    defaultFgColor:
+      - '#D80000'

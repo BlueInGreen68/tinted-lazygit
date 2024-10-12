@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Estuary Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-estuary-light
+# slug-underscored: atelier_estuary_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#36a166'
+      - bold
+    inactiveBorderColor:
+      - '#878573'
+    searchingActiveBorderColor:
+      - '#ae7313'
+    optionsTextColor:
+      - '#36a166'
+    selectedLineBgColor:
+      - '#929181'
+    cherryPickedCommitBgColor:
+      - '#878573'
+    cherryPickedCommitFgColor:
+      - '#36a166'
+    markedBaseCommitFgColor:
+      - '#36a166'
+    unstagedChangesColor:
+      - '#ba6236'
+    defaultFgColor:
+      - '#5f5e4e'

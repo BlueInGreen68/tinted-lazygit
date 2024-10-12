@@ -1,0 +1,35 @@
+#
+#
+# name: Green Screen
+# author: Chris Kempson (http://chriskempson.com)
+# slug: greenscreen
+# slug-underscored: greenscreen
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#009900'
+      - bold
+    inactiveBorderColor:
+      - '#007700'
+    searchingActiveBorderColor:
+      - '#009900'
+    optionsTextColor:
+      - '#009900'
+    selectedLineBgColor:
+      - '#005500'
+    cherryPickedCommitBgColor:
+      - '#007700'
+    cherryPickedCommitFgColor:
+      - '#009900'
+    markedBaseCommitFgColor:
+      - '#009900'
+    unstagedChangesColor:
+      - '#007700'
+    defaultFgColor:
+      - '#00bb00'

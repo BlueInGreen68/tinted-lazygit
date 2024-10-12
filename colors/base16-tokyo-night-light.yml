@@ -1,0 +1,35 @@
+#
+#
+# name: Tokyo Night Light
+# author: Michaël Ball
+# slug: tokyo-night-light
+# slug-underscored: tokyo_night_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#34548A'
+      - bold
+    inactiveBorderColor:
+      - '#9699A3'
+    searchingActiveBorderColor:
+      - '#965027'
+    optionsTextColor:
+      - '#34548A'
+    selectedLineBgColor:
+      - '#DFE0E5'
+    cherryPickedCommitBgColor:
+      - '#9699A3'
+    cherryPickedCommitFgColor:
+      - '#34548A'
+    markedBaseCommitFgColor:
+      - '#34548A'
+    unstagedChangesColor:
+      - '#343B58'
+    defaultFgColor:
+      - '#343B59'

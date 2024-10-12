@@ -1,0 +1,35 @@
+#
+#
+# name: selenized-white
+# author: Jan Warchol (https://github.com/jan-warchol/selenized) / adapted to base16 by ali
+# slug: selenized-white
+# slug-underscored: selenized_white
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0054cf'
+      - bold
+    inactiveBorderColor:
+      - '#878787'
+    searchingActiveBorderColor:
+      - '#ba3700'
+    optionsTextColor:
+      - '#0054cf'
+    selectedLineBgColor:
+      - '#cdcdcd'
+    cherryPickedCommitBgColor:
+      - '#878787'
+    cherryPickedCommitFgColor:
+      - '#0054cf'
+    markedBaseCommitFgColor:
+      - '#0054cf'
+    unstagedChangesColor:
+      - '#bf0000'
+    defaultFgColor:
+      - '#474747'

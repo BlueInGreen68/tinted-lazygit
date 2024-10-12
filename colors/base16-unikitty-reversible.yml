@@ -1,0 +1,35 @@
+#
+#
+# name: Unikitty Reversible
+# author: Josh W Lewis (@joshwlewis)
+# slug: unikitty-reversible
+# slug-underscored: unikitty_reversible
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7864fa'
+      - bold
+    inactiveBorderColor:
+      - '#878589'
+    searchingActiveBorderColor:
+      - '#d65407'
+    optionsTextColor:
+      - '#7864fa'
+    selectedLineBgColor:
+      - '#69666b'
+    cherryPickedCommitBgColor:
+      - '#878589'
+    cherryPickedCommitFgColor:
+      - '#7864fa'
+    markedBaseCommitFgColor:
+      - '#7864fa'
+    unstagedChangesColor:
+      - '#d8137f'
+    defaultFgColor:
+      - '#c3c2c4'

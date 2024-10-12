@@ -1,0 +1,35 @@
+#
+#
+# name: Windows 95
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-95
+# slug-underscored: windows_95
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5454fc'
+      - bold
+    inactiveBorderColor:
+      - '#545454'
+    searchingActiveBorderColor:
+      - '#a85400'
+    optionsTextColor:
+      - '#5454fc'
+    selectedLineBgColor:
+      - '#383838'
+    cherryPickedCommitBgColor:
+      - '#545454'
+    cherryPickedCommitFgColor:
+      - '#5454fc'
+    markedBaseCommitFgColor:
+      - '#5454fc'
+    unstagedChangesColor:
+      - '#fc5454'
+    defaultFgColor:
+      - '#a8a8a8'

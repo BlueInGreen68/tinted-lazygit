@@ -1,0 +1,35 @@
+#
+#
+# name: Brush Trees Dark
+# author: Abraham White <abelincoln.white@gmail.com>
+# slug: brushtrees-dark
+# slug-underscored: brushtrees_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#868cb3'
+      - bold
+    inactiveBorderColor:
+      - '#8299A1'
+    searchingActiveBorderColor:
+      - '#d8bba2'
+    optionsTextColor:
+      - '#868cb3'
+    selectedLineBgColor:
+      - '#6D828E'
+    cherryPickedCommitBgColor:
+      - '#8299A1'
+    cherryPickedCommitFgColor:
+      - '#868cb3'
+    markedBaseCommitFgColor:
+      - '#868cb3'
+    unstagedChangesColor:
+      - '#b38686'
+    defaultFgColor:
+      - '#B0C5C8'

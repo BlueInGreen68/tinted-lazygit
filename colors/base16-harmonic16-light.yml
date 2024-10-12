@@ -1,0 +1,35 @@
+#
+#
+# name: Harmonic16 Light
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: harmonic16-light
+# slug-underscored: harmonic16_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8b56bf'
+      - bold
+    inactiveBorderColor:
+      - '#aabcce'
+    searchingActiveBorderColor:
+      - '#bfbf56'
+    optionsTextColor:
+      - '#8b56bf'
+    selectedLineBgColor:
+      - '#cbd6e2'
+    cherryPickedCommitBgColor:
+      - '#aabcce'
+    cherryPickedCommitFgColor:
+      - '#8b56bf'
+    markedBaseCommitFgColor:
+      - '#8b56bf'
+    unstagedChangesColor:
+      - '#bf8b56'
+    defaultFgColor:
+      - '#405c79'

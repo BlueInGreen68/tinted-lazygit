@@ -1,0 +1,35 @@
+#
+#
+# name: Gigavolt
+# author: Aidan Swope (http://github.com/Whillikers)
+# slug: gigavolt
+# slug-underscored: gigavolt
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#40bfff'
+      - bold
+    inactiveBorderColor:
+      - '#a1d2e6'
+    searchingActiveBorderColor:
+      - '#19f988'
+    optionsTextColor:
+      - '#40bfff'
+    selectedLineBgColor:
+      - '#5a576e'
+    cherryPickedCommitBgColor:
+      - '#a1d2e6'
+    cherryPickedCommitFgColor:
+      - '#40bfff'
+    markedBaseCommitFgColor:
+      - '#40bfff'
+    unstagedChangesColor:
+      - '#ff661a'
+    defaultFgColor:
+      - '#e9e7e1'

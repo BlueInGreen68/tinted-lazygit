@@ -1,0 +1,35 @@
+#
+#
+# name: Pop
+# author: Chris Kempson (http://chriskempson.com)
+# slug: pop
+# slug-underscored: pop
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0e5a94'
+      - bold
+    inactiveBorderColor:
+      - '#505050'
+    searchingActiveBorderColor:
+      - '#f29333'
+    optionsTextColor:
+      - '#0e5a94'
+    selectedLineBgColor:
+      - '#303030'
+    cherryPickedCommitBgColor:
+      - '#505050'
+    cherryPickedCommitFgColor:
+      - '#0e5a94'
+    markedBaseCommitFgColor:
+      - '#0e5a94'
+    unstagedChangesColor:
+      - '#eb008a'
+    defaultFgColor:
+      - '#d0d0d0'

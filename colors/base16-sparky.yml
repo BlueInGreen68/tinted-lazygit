@@ -1,0 +1,35 @@
+#
+#
+# name: Sparky
+# author: Leila Sother (https://github.com/mixcoac)
+# slug: sparky
+# slug-underscored: sparky
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4698CB'
+      - bold
+    inactiveBorderColor:
+      - '#003B49'
+    searchingActiveBorderColor:
+      - '#FF8F1C'
+    optionsTextColor:
+      - '#4698CB'
+    selectedLineBgColor:
+      - '#003C46'
+    cherryPickedCommitBgColor:
+      - '#003B49'
+    cherryPickedCommitFgColor:
+      - '#4698CB'
+    markedBaseCommitFgColor:
+      - '#4698CB'
+    unstagedChangesColor:
+      - '#FF585D'
+    defaultFgColor:
+      - '#F4F5F0'

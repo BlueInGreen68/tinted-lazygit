@@ -1,0 +1,35 @@
+#
+#
+# name: Oxocarbon Dark
+# author: shaunsingh/IBM
+# slug: oxocarbon-dark
+# slug-underscored: oxocarbon_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#42be65'
+      - bold
+    inactiveBorderColor:
+      - '#525252'
+    searchingActiveBorderColor:
+      - '#78a9ff'
+    optionsTextColor:
+      - '#42be65'
+    selectedLineBgColor:
+      - '#393939'
+    cherryPickedCommitBgColor:
+      - '#525252'
+    cherryPickedCommitFgColor:
+      - '#42be65'
+    markedBaseCommitFgColor:
+      - '#42be65'
+    unstagedChangesColor:
+      - '#3ddbd9'
+    defaultFgColor:
+      - '#f2f4f8'

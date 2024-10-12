@@ -1,0 +1,35 @@
+#
+#
+# name: Katy
+# author: George Essig (https://github.com/gessig)
+# slug: katy
+# slug-underscored: katy
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82aaff'
+      - bold
+    inactiveBorderColor:
+      - '#676e95'
+    searchingActiveBorderColor:
+      - '#f78c6c'
+    optionsTextColor:
+      - '#82aaff'
+    selectedLineBgColor:
+      - '#5c598b'
+    cherryPickedCommitBgColor:
+      - '#676e95'
+    cherryPickedCommitFgColor:
+      - '#82aaff'
+    markedBaseCommitFgColor:
+      - '#82aaff'
+    unstagedChangesColor:
+      - '#6e98e1'
+    defaultFgColor:
+      - '#959dcb'

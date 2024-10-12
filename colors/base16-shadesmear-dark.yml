@@ -1,0 +1,35 @@
+#
+#
+# name: ShadeSmear Dark
+# author: Kyle Giammarco (http://kyle.giammar.co)
+# slug: shadesmear-dark
+# slug-underscored: shadesmear_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#376388'
+      - bold
+    inactiveBorderColor:
+      - '#C0C0C0'
+    searchingActiveBorderColor:
+      - '#A64270'
+    optionsTextColor:
+      - '#376388'
+    selectedLineBgColor:
+      - '#4E4E4E'
+    cherryPickedCommitBgColor:
+      - '#C0C0C0'
+    cherryPickedCommitFgColor:
+      - '#376388'
+    markedBaseCommitFgColor:
+      - '#376388'
+    unstagedChangesColor:
+      - '#CC5450'
+    defaultFgColor:
+      - '#DBDBDB'

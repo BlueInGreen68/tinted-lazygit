@@ -1,0 +1,35 @@
+#
+#
+# name: Tokyo City Dark
+# author: Michaël Ball
+# slug: tokyo-city-dark
+# slug-underscored: tokyo_city_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7AA2F7'
+      - bold
+    inactiveBorderColor:
+      - '#526270'
+    searchingActiveBorderColor:
+      - '#FF9E64'
+    optionsTextColor:
+      - '#7AA2F7'
+    selectedLineBgColor:
+      - '#28323A'
+    cherryPickedCommitBgColor:
+      - '#526270'
+    cherryPickedCommitFgColor:
+      - '#7AA2F7'
+    markedBaseCommitFgColor:
+      - '#7AA2F7'
+    unstagedChangesColor:
+      - '#F7768E'
+    defaultFgColor:
+      - '#D8E2EC'

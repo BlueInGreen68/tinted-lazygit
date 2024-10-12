@@ -1,0 +1,35 @@
+#
+#
+# name: emil
+# author: limelier
+# slug: emil
+# slug-underscored: emil
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#471397'
+      - bold
+    inactiveBorderColor:
+      - '#7c7c98'
+    searchingActiveBorderColor:
+      - '#d22a8b'
+    optionsTextColor:
+      - '#471397'
+    selectedLineBgColor:
+      - '#9e9eaf'
+    cherryPickedCommitBgColor:
+      - '#7c7c98'
+    cherryPickedCommitFgColor:
+      - '#471397'
+    markedBaseCommitFgColor:
+      - '#471397'
+    unstagedChangesColor:
+      - '#f43979'
+    defaultFgColor:
+      - '#313145'

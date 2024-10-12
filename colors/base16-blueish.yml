@@ -1,0 +1,35 @@
+#
+#
+# name: Blueish
+# author: Ben Mayoras
+# slug: blueish
+# slug-underscored: blueish
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82AAFF'
+      - bold
+    inactiveBorderColor:
+      - '#616D78'
+    searchingActiveBorderColor:
+      - '#F6A85C'
+    optionsTextColor:
+      - '#82AAFF'
+    selectedLineBgColor:
+      - '#46290A'
+    cherryPickedCommitBgColor:
+      - '#616D78'
+    cherryPickedCommitFgColor:
+      - '#82AAFF'
+    markedBaseCommitFgColor:
+      - '#82AAFF'
+    unstagedChangesColor:
+      - '#4CE587'
+    defaultFgColor:
+      - '#C8E1F8'

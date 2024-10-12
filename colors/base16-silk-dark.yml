@@ -1,0 +1,35 @@
+#
+#
+# name: Silk Dark
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: silk-dark
+# slug-underscored: silk_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#46bddd'
+      - bold
+    inactiveBorderColor:
+      - '#587073'
+    searchingActiveBorderColor:
+      - '#fcab74'
+    optionsTextColor:
+      - '#46bddd'
+    selectedLineBgColor:
+      - '#2A5054'
+    cherryPickedCommitBgColor:
+      - '#587073'
+    cherryPickedCommitFgColor:
+      - '#46bddd'
+    markedBaseCommitFgColor:
+      - '#46bddd'
+    unstagedChangesColor:
+      - '#fb6953'
+    defaultFgColor:
+      - '#C7DBDD'

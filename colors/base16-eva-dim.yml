@@ -1,0 +1,35 @@
+#
+#
+# name: Eva Dim
+# author: kjakapat (https://github.com/kjakapat)
+# slug: eva-dim
+# slug-underscored: eva_dim
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#1ae1dc'
+      - bold
+    inactiveBorderColor:
+      - '#55799c'
+    searchingActiveBorderColor:
+      - '#ff9966'
+    optionsTextColor:
+      - '#1ae1dc'
+    selectedLineBgColor:
+      - '#4b6988'
+    cherryPickedCommitBgColor:
+      - '#55799c'
+    cherryPickedCommitFgColor:
+      - '#1ae1dc'
+    markedBaseCommitFgColor:
+      - '#1ae1dc'
+    unstagedChangesColor:
+      - '#c4676c'
+    defaultFgColor:
+      - '#9fa2a6'

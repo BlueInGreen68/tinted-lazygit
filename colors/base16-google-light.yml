@@ -1,0 +1,35 @@
+#
+#
+# name: Google Light
+# author: Seth Wright (http://sethawright.com)
+# slug: google-light
+# slug-underscored: google_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3971ED'
+      - bold
+    inactiveBorderColor:
+      - '#b4b7b4'
+    searchingActiveBorderColor:
+      - '#F96A38'
+    optionsTextColor:
+      - '#3971ED'
+    selectedLineBgColor:
+      - '#c5c8c6'
+    cherryPickedCommitBgColor:
+      - '#b4b7b4'
+    cherryPickedCommitFgColor:
+      - '#3971ED'
+    markedBaseCommitFgColor:
+      - '#3971ED'
+    unstagedChangesColor:
+      - '#CC342B'
+    defaultFgColor:
+      - '#373b41'

@@ -1,0 +1,35 @@
+#
+#
+# name: PaperColor Dark
+# author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# slug: papercolor-dark
+# slug-underscored: papercolor_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#ff5faf'
+      - bold
+    inactiveBorderColor:
+      - '#d7af5f'
+    searchingActiveBorderColor:
+      - '#5faf5f'
+    optionsTextColor:
+      - '#ff5faf'
+    selectedLineBgColor:
+      - '#5faf00'
+    cherryPickedCommitBgColor:
+      - '#d7af5f'
+    cherryPickedCommitFgColor:
+      - '#ff5faf'
+    markedBaseCommitFgColor:
+      - '#ff5faf'
+    unstagedChangesColor:
+      - '#585858'
+    defaultFgColor:
+      - '#808080'

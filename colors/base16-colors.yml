@@ -1,0 +1,35 @@
+#
+#
+# name: Colors
+# author: mrmrs (http://clrs.cc)
+# slug: colors
+# slug-underscored: colors
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0074d9'
+      - bold
+    inactiveBorderColor:
+      - '#777777'
+    searchingActiveBorderColor:
+      - '#ff851b'
+    optionsTextColor:
+      - '#0074d9'
+    selectedLineBgColor:
+      - '#555555'
+    cherryPickedCommitBgColor:
+      - '#777777'
+    cherryPickedCommitFgColor:
+      - '#0074d9'
+    markedBaseCommitFgColor:
+      - '#0074d9'
+    unstagedChangesColor:
+      - '#ff4136'
+    defaultFgColor:
+      - '#bbbbbb'

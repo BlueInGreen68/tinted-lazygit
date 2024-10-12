@@ -1,0 +1,35 @@
+#
+#
+# name: Zenburn
+# author: elnawe
+# slug: zenburn
+# slug-underscored: zenburn
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7cb8bb'
+      - bold
+    inactiveBorderColor:
+      - '#6f6f6f'
+    searchingActiveBorderColor:
+      - '#dfaf8f'
+    optionsTextColor:
+      - '#7cb8bb'
+    selectedLineBgColor:
+      - '#606060'
+    cherryPickedCommitBgColor:
+      - '#6f6f6f'
+    cherryPickedCommitFgColor:
+      - '#7cb8bb'
+    markedBaseCommitFgColor:
+      - '#7cb8bb'
+    unstagedChangesColor:
+      - '#dca3a3'
+    defaultFgColor:
+      - '#dcdccc'

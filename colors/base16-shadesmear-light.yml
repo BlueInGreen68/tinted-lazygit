@@ -1,0 +1,35 @@
+#
+#
+# name: ShadeSmear Light
+# author: Kyle Giammarco (http://kyle.giammar.co)
+# slug: shadesmear-light
+# slug-underscored: shadesmear_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#376388'
+      - bold
+    inactiveBorderColor:
+      - '#4E4E4E'
+    searchingActiveBorderColor:
+      - '#A64270'
+    optionsTextColor:
+      - '#376388'
+    selectedLineBgColor:
+      - '#C0C0C0'
+    cherryPickedCommitBgColor:
+      - '#4E4E4E'
+    cherryPickedCommitFgColor:
+      - '#376388'
+    markedBaseCommitFgColor:
+      - '#376388'
+    unstagedChangesColor:
+      - '#CC5450'
+    defaultFgColor:
+      - '#232323'

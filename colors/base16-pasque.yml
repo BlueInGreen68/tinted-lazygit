@@ -1,0 +1,35 @@
+#
+#
+# name: Pasque
+# author: Gabriel Fontes (https://github.com/Misterio77)
+# slug: pasque
+# slug-underscored: pasque
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8E7DC6'
+      - bold
+    inactiveBorderColor:
+      - '#5D5766'
+    searchingActiveBorderColor:
+      - '#918889'
+    optionsTextColor:
+      - '#8E7DC6'
+    selectedLineBgColor:
+      - '#3E2D5C'
+    cherryPickedCommitBgColor:
+      - '#5D5766'
+    cherryPickedCommitFgColor:
+      - '#8E7DC6'
+    markedBaseCommitFgColor:
+      - '#8E7DC6'
+    unstagedChangesColor:
+      - '#A92258'
+    defaultFgColor:
+      - '#DEDCDF'

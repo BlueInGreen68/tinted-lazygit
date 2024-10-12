@@ -1,0 +1,35 @@
+#
+#
+# name: Humanoid dark
+# author: Thomas (tasmo) Friese
+# slug: humanoid-dark
+# slug-underscored: humanoid_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00a6fb'
+      - bold
+    inactiveBorderColor:
+      - '#60615d'
+    searchingActiveBorderColor:
+      - '#ff9505'
+    optionsTextColor:
+      - '#00a6fb'
+    selectedLineBgColor:
+      - '#484e54'
+    cherryPickedCommitBgColor:
+      - '#60615d'
+    cherryPickedCommitFgColor:
+      - '#00a6fb'
+    markedBaseCommitFgColor:
+      - '#00a6fb'
+    unstagedChangesColor:
+      - '#f11235'
+    defaultFgColor:
+      - '#f8f8f2'

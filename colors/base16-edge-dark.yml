@@ -1,0 +1,35 @@
+#
+#
+# name: Edge Dark
+# author: cjayross (https://github.com/cjayross)
+# slug: edge-dark
+# slug-underscored: edge_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#73b3e7'
+      - bold
+    inactiveBorderColor:
+      - '#3e4249'
+    searchingActiveBorderColor:
+      - '#e77171'
+    optionsTextColor:
+      - '#73b3e7'
+    selectedLineBgColor:
+      - '#b7bec9'
+    cherryPickedCommitBgColor:
+      - '#3e4249'
+    cherryPickedCommitFgColor:
+      - '#73b3e7'
+    markedBaseCommitFgColor:
+      - '#73b3e7'
+    unstagedChangesColor:
+      - '#e77171'
+    defaultFgColor:
+      - '#b7bec9'

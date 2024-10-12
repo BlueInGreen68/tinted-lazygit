@@ -1,0 +1,35 @@
+#
+#
+# name: Spaceduck
+# author: Guillermo Rodriguez (https://github.com/pineapplegiant), packaged by Gabriel Fontes (https://github.com/Misterio77)
+# slug: spaceduck
+# slug-underscored: spaceduck
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7a5ccc'
+      - bold
+    inactiveBorderColor:
+      - '#686f9a'
+    searchingActiveBorderColor:
+      - '#e39400'
+    optionsTextColor:
+      - '#7a5ccc'
+    selectedLineBgColor:
+      - '#30365F'
+    cherryPickedCommitBgColor:
+      - '#686f9a'
+    cherryPickedCommitFgColor:
+      - '#7a5ccc'
+    markedBaseCommitFgColor:
+      - '#7a5ccc'
+    unstagedChangesColor:
+      - '#e33400'
+    defaultFgColor:
+      - '#ecf0c1'

@@ -1,0 +1,35 @@
+#
+#
+# name: Measured Dark
+# author: Measured (https://measured.co)
+# slug: measured-dark
+# slug-underscored: measured_dark
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#88b0da'
+      - bold
+    inactiveBorderColor:
+      - '#ababab'
+    searchingActiveBorderColor:
+      - '#dca37c'
+    optionsTextColor:
+      - '#88b0da'
+    selectedLineBgColor:
+      - '#005453'
+    cherryPickedCommitBgColor:
+      - '#ababab'
+    cherryPickedCommitFgColor:
+      - '#88b0da'
+    markedBaseCommitFgColor:
+      - '#88b0da'
+    unstagedChangesColor:
+      - '#ce7e8e'
+    defaultFgColor:
+      - '#dcdcdc'

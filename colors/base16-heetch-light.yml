@@ -1,0 +1,35 @@
+#
+#
+# name: Heetch Light
+# author: Geoffrey Teale (tealeg@gmail.com)
+# slug: heetch-light
+# slug-underscored: heetch_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#47f9f5'
+      - bold
+    inactiveBorderColor:
+      - '#9c92a8'
+    searchingActiveBorderColor:
+      - '#bdb6c5'
+    optionsTextColor:
+      - '#47f9f5'
+    selectedLineBgColor:
+      - '#7b6d8b'
+    cherryPickedCommitBgColor:
+      - '#9c92a8'
+    cherryPickedCommitFgColor:
+      - '#47f9f5'
+    markedBaseCommitFgColor:
+      - '#47f9f5'
+    unstagedChangesColor:
+      - '#27d9d5'
+    defaultFgColor:
+      - '#5a496e'

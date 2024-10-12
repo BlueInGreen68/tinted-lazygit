@@ -1,0 +1,35 @@
+#
+#
+# name: Chalk
+# author: Chris Kempson (http://chriskempson.com)
+# slug: chalk
+# slug-underscored: chalk
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6fc2ef'
+      - bold
+    inactiveBorderColor:
+      - '#505050'
+    searchingActiveBorderColor:
+      - '#eda987'
+    optionsTextColor:
+      - '#6fc2ef'
+    selectedLineBgColor:
+      - '#303030'
+    cherryPickedCommitBgColor:
+      - '#505050'
+    cherryPickedCommitFgColor:
+      - '#6fc2ef'
+    markedBaseCommitFgColor:
+      - '#6fc2ef'
+    unstagedChangesColor:
+      - '#fb9fb1'
+    defaultFgColor:
+      - '#d0d0d0'

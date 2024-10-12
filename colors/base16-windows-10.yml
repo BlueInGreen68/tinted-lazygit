@@ -1,0 +1,35 @@
+#
+#
+# name: Windows 10
+# author: Fergus Collins (https://github.com/C-Fergus)
+# slug: windows-10
+# slug-underscored: windows_10
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3b78ff'
+      - bold
+    inactiveBorderColor:
+      - '#767676'
+    searchingActiveBorderColor:
+      - '#c19c00'
+    optionsTextColor:
+      - '#3b78ff'
+    selectedLineBgColor:
+      - '#535353'
+    cherryPickedCommitBgColor:
+      - '#767676'
+    cherryPickedCommitFgColor:
+      - '#3b78ff'
+    markedBaseCommitFgColor:
+      - '#3b78ff'
+    unstagedChangesColor:
+      - '#e74856'
+    defaultFgColor:
+      - '#cccccc'

@@ -1,0 +1,35 @@
+#
+#
+# name: tarot
+# author: ed (https://codeberg.org/ed)
+# slug: tarot
+# slug-underscored: tarot
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6e6080'
+      - bold
+    inactiveBorderColor:
+      - '#74316b'
+    searchingActiveBorderColor:
+      - '#ea4d60'
+    optionsTextColor:
+      - '#6e6080'
+    selectedLineBgColor:
+      - '#4b2054'
+    cherryPickedCommitBgColor:
+      - '#74316b'
+    cherryPickedCommitFgColor:
+      - '#6e6080'
+    markedBaseCommitFgColor:
+      - '#6e6080'
+    unstagedChangesColor:
+      - '#c53253'
+    defaultFgColor:
+      - '#aa556f'

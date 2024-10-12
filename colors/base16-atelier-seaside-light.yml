@@ -1,0 +1,35 @@
+#
+#
+# name: Atelier Seaside Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-seaside-light
+# slug-underscored: atelier_seaside_light
+# system: base16
+# variant: light
+# is-light-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3d62f5'
+      - bold
+    inactiveBorderColor:
+      - '#809980'
+    searchingActiveBorderColor:
+      - '#87711d'
+    optionsTextColor:
+      - '#3d62f5'
+    selectedLineBgColor:
+      - '#8ca68c'
+    cherryPickedCommitBgColor:
+      - '#809980'
+    cherryPickedCommitFgColor:
+      - '#3d62f5'
+    markedBaseCommitFgColor:
+      - '#3d62f5'
+    unstagedChangesColor:
+      - '#e6193c'
+    defaultFgColor:
+      - '#5e6e5e'

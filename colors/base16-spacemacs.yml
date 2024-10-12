@@ -1,0 +1,35 @@
+#
+#
+# name: Spacemacs
+# author: Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+# slug: spacemacs
+# slug-underscored: spacemacs
+# system: base16
+# variant: dark
+# is-dark-variant: true
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4f97d7'
+      - bold
+    inactiveBorderColor:
+      - '#585858'
+    searchingActiveBorderColor:
+      - '#ffa500'
+    optionsTextColor:
+      - '#4f97d7'
+    selectedLineBgColor:
+      - '#444155'
+    cherryPickedCommitBgColor:
+      - '#585858'
+    cherryPickedCommitFgColor:
+      - '#4f97d7'
+    markedBaseCommitFgColor:
+      - '#4f97d7'
+    unstagedChangesColor:
+      - '#f2241f'
+    defaultFgColor:
+      - '#a3a3a3'
