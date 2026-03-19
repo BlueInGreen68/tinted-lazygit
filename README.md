@@ -26,6 +26,20 @@ Place this file in:
 - MacOS: `~/Library/Application\ Support/lazygit/config.yml`.
 - Windows: `%LOCALAPPDATA%\lazygit\config.yml` (default location, but it will also be found in `%APPDATA%\lazygit\config.yml`.
 
+### Separating the theme and the configuration
+
+You can use a flag `--use-config-file` to combine multiple configuration files.
+
+```bash
+lazygit --use-config-file="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/base16-lazygit-colors-file.yml"
+```
+
+Or an environment variable `LG_CONFIG_FILE`.
+
+```bash
+LG_CONFIG_FILE="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/base16-lazygit-colors-file.yml" lazygit
+```
+
 ## License
 
 MIT
