@@ -1,0 +1,34 @@
+#
+#
+# name: Chicago Day
+# author: Wendell, Ryan <ryanjwendell@gmail.com>
+# slug: chicago-day
+# slug-underscored: chicago_day
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#522398'
+      - bold
+    inactiveBorderColor:
+      - '#8a9a91'
+    searchingActiveBorderColor:
+      - '#f9461c'
+    optionsTextColor:
+      - '#522398'
+    selectedLineBgColor:
+      - '#b9d0c3'
+    cherryPickedCommitBgColor:
+      - '#8a9a91'
+    cherryPickedCommitFgColor:
+      - '#522398'
+    markedBaseCommitFgColor:
+      - '#522398'
+    unstagedChangesColor:
+      - '#c60c30'
+    defaultFgColor:
+      - '#364c40'

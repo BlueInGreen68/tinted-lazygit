@@ -1,0 +1,34 @@
+#
+#
+# name: Darcula
+# author: jetbrains
+# slug: darcula
+# slug-underscored: darcula
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#9876aa'
+      - bold
+    inactiveBorderColor:
+      - '#606366'
+    searchingActiveBorderColor:
+      - '#689757'
+    optionsTextColor:
+      - '#9876aa'
+    selectedLineBgColor:
+      - '#323232'
+    cherryPickedCommitBgColor:
+      - '#606366'
+    cherryPickedCommitFgColor:
+      - '#9876aa'
+    markedBaseCommitFgColor:
+      - '#9876aa'
+    unstagedChangesColor:
+      - '#4eade5'
+    defaultFgColor:
+      - '#a9b7c6'

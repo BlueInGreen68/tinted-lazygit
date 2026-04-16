@@ -1,0 +1,34 @@
+#
+#
+# name: Kanagawa
+# author: Tommaso Laurenzi (https://github.com/rebelot)
+# slug: kanagawa
+# slug-underscored: kanagawa
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7e9cd8'
+      - bold
+    inactiveBorderColor:
+      - '#54546d'
+    searchingActiveBorderColor:
+      - '#ffa066'
+    optionsTextColor:
+      - '#7e9cd8'
+    selectedLineBgColor:
+      - '#223249'
+    cherryPickedCommitBgColor:
+      - '#54546d'
+    cherryPickedCommitFgColor:
+      - '#7e9cd8'
+    markedBaseCommitFgColor:
+      - '#7e9cd8'
+    unstagedChangesColor:
+      - '#c34043'
+    defaultFgColor:
+      - '#dcd7ba'

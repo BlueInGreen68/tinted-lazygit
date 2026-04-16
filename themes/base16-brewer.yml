@@ -1,0 +1,34 @@
+#
+#
+# name: Brewer
+# author: Timothée Poisot (http://github.com/tpoisot)
+# slug: brewer
+# slug-underscored: brewer
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3182bd'
+      - bold
+    inactiveBorderColor:
+      - '#737475'
+    searchingActiveBorderColor:
+      - '#e6550d'
+    optionsTextColor:
+      - '#3182bd'
+    selectedLineBgColor:
+      - '#515253'
+    cherryPickedCommitBgColor:
+      - '#737475'
+    cherryPickedCommitFgColor:
+      - '#3182bd'
+    markedBaseCommitFgColor:
+      - '#3182bd'
+    unstagedChangesColor:
+      - '#e31a1c'
+    defaultFgColor:
+      - '#b7b8b9'

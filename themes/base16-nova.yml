@@ -1,0 +1,34 @@
+#
+#
+# name: Nova
+# author: George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
+# slug: nova
+# slug-underscored: nova
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#83afe5'
+      - bold
+    inactiveBorderColor:
+      - '#899ba6'
+    searchingActiveBorderColor:
+      - '#7fc1ca'
+    optionsTextColor:
+      - '#83afe5'
+    selectedLineBgColor:
+      - '#6a7d89'
+    cherryPickedCommitBgColor:
+      - '#899ba6'
+    cherryPickedCommitFgColor:
+      - '#83afe5'
+    markedBaseCommitFgColor:
+      - '#83afe5'
+    unstagedChangesColor:
+      - '#83afe5'
+    defaultFgColor:
+      - '#c5d4dd'

@@ -1,0 +1,34 @@
+#
+#
+# name: Paraiso
+# author: Jan T. Sott
+# slug: paraiso
+# slug-underscored: paraiso
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#06b6ef'
+      - bold
+    inactiveBorderColor:
+      - '#776e71'
+    searchingActiveBorderColor:
+      - '#f99b15'
+    optionsTextColor:
+      - '#06b6ef'
+    selectedLineBgColor:
+      - '#4f424c'
+    cherryPickedCommitBgColor:
+      - '#776e71'
+    cherryPickedCommitFgColor:
+      - '#06b6ef'
+    markedBaseCommitFgColor:
+      - '#06b6ef'
+    unstagedChangesColor:
+      - '#ef6155'
+    defaultFgColor:
+      - '#a39e9b'

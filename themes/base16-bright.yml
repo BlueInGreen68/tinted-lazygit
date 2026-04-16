@@ -1,0 +1,34 @@
+#
+#
+# name: Bright
+# author: Chris Kempson (http://chriskempson.com)
+# slug: bright
+# slug-underscored: bright
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6fb3d2'
+      - bold
+    inactiveBorderColor:
+      - '#b0b0b0'
+    searchingActiveBorderColor:
+      - '#fc6d24'
+    optionsTextColor:
+      - '#6fb3d2'
+    selectedLineBgColor:
+      - '#505050'
+    cherryPickedCommitBgColor:
+      - '#b0b0b0'
+    cherryPickedCommitFgColor:
+      - '#6fb3d2'
+    markedBaseCommitFgColor:
+      - '#6fb3d2'
+    unstagedChangesColor:
+      - '#fb0120'
+    defaultFgColor:
+      - '#e0e0e0'

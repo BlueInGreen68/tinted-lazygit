@@ -1,0 +1,34 @@
+#
+#
+# name: Sakura
+# author: Misterio77 (http://github.com/Misterio77)
+# slug: sakura
+# slug-underscored: sakura
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#006e93'
+      - bold
+    inactiveBorderColor:
+      - '#755f64'
+    searchingActiveBorderColor:
+      - '#f6661e'
+    optionsTextColor:
+      - '#006e93'
+    selectedLineBgColor:
+      - '#e0ccd1'
+    cherryPickedCommitBgColor:
+      - '#755f64'
+    cherryPickedCommitFgColor:
+      - '#006e93'
+    markedBaseCommitFgColor:
+      - '#006e93'
+    unstagedChangesColor:
+      - '#df2d52'
+    defaultFgColor:
+      - '#564448'

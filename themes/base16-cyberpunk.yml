@@ -1,0 +1,34 @@
+#
+#
+# name: Cyberpunk
+# author: benjujo
+# slug: cyberpunk
+# slug-underscored: cyberpunk
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4c83ff'
+      - bold
+    inactiveBorderColor:
+      - '#4f4f4f'
+    searchingActiveBorderColor:
+      - '#ffa500'
+    optionsTextColor:
+      - '#4c83ff'
+    selectedLineBgColor:
+      - '#383838'
+    cherryPickedCommitBgColor:
+      - '#4f4f4f'
+    cherryPickedCommitFgColor:
+      - '#4c83ff'
+    markedBaseCommitFgColor:
+      - '#4c83ff'
+    unstagedChangesColor:
+      - '#ff0000'
+    defaultFgColor:
+      - '#dcdccc'

@@ -1,0 +1,34 @@
+#
+#
+# name: eris
+# author: ed (https://codeberg.org/ed), Tinted Theming (https://github.com/tinted-theming)
+# slug: eris
+# slug-underscored: eris
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#258fc4'
+      - bold
+    inactiveBorderColor:
+      - '#333773'
+    searchingActiveBorderColor:
+      - '#f78968'
+    optionsTextColor:
+      - '#258fc4'
+    selectedLineBgColor:
+      - '#23255a'
+    cherryPickedCommitBgColor:
+      - '#333773'
+    cherryPickedCommitFgColor:
+      - '#258fc4'
+    markedBaseCommitFgColor:
+      - '#258fc4'
+    unstagedChangesColor:
+      - '#f768a3'
+    defaultFgColor:
+      - '#606bac'

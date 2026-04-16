@@ -1,0 +1,34 @@
+#
+#
+# name: Solarized Light
+# author: Ethan Schoonover (modified by aramisgithub)
+# slug: solarized-light
+# slug-underscored: solarized_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#268bd2'
+      - bold
+    inactiveBorderColor:
+      - '#839496'
+    searchingActiveBorderColor:
+      - '#cb4b16'
+    optionsTextColor:
+      - '#268bd2'
+    selectedLineBgColor:
+      - '#93a1a1'
+    cherryPickedCommitBgColor:
+      - '#839496'
+    cherryPickedCommitFgColor:
+      - '#268bd2'
+    markedBaseCommitFgColor:
+      - '#268bd2'
+    unstagedChangesColor:
+      - '#dc322f'
+    defaultFgColor:
+      - '#586e75'

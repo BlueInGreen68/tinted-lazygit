@@ -1,0 +1,34 @@
+#
+#
+# name: Cupcake
+# author: Chris Kempson (http://chriskempson.com)
+# slug: cupcake
+# slug-underscored: cupcake
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7297b9'
+      - bold
+    inactiveBorderColor:
+      - '#bfb9c6'
+    searchingActiveBorderColor:
+      - '#ebb790'
+    optionsTextColor:
+      - '#7297b9'
+    selectedLineBgColor:
+      - '#d8d5dd'
+    cherryPickedCommitBgColor:
+      - '#bfb9c6'
+    cherryPickedCommitFgColor:
+      - '#7297b9'
+    markedBaseCommitFgColor:
+      - '#7297b9'
+    unstagedChangesColor:
+      - '#d57e85'
+    defaultFgColor:
+      - '#8b8198'

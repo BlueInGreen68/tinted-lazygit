@@ -1,0 +1,34 @@
+#
+#
+# name: Charcoal Dark
+# author: Mubin Muhammad (https://github.com/mubin6th)
+# slug: charcoal-dark
+# slug-underscored: charcoal_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c3a983'
+      - bold
+    inactiveBorderColor:
+      - '#57462c'
+    searchingActiveBorderColor:
+      - '#dec8a7'
+    optionsTextColor:
+      - '#c3a983'
+    selectedLineBgColor:
+      - '#2a2012'
+    cherryPickedCommitBgColor:
+      - '#57462c'
+    cherryPickedCommitFgColor:
+      - '#c3a983'
+    markedBaseCommitFgColor:
+      - '#c3a983'
+    unstagedChangesColor:
+      - '#a88c62'
+    defaultFgColor:
+      - '#c3a983'

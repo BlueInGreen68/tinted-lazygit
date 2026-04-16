@@ -1,0 +1,34 @@
+#
+#
+# name: Aztec
+# author: TheNeverMan (github.com/TheNeverMan)
+# slug: aztec
+# slug-underscored: aztec
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5b4a9f'
+      - bold
+    inactiveBorderColor:
+      - '#2e2e05'
+    searchingActiveBorderColor:
+      - '#ee8800'
+    optionsTextColor:
+      - '#5b4a9f'
+    selectedLineBgColor:
+      - '#242604'
+    cherryPickedCommitBgColor:
+      - '#2e2e05'
+    cherryPickedCommitFgColor:
+      - '#5b4a9f'
+    markedBaseCommitFgColor:
+      - '#5b4a9f'
+    unstagedChangesColor:
+      - '#ee2e00'
+    defaultFgColor:
+      - '#ffda51'

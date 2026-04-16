@@ -1,0 +1,34 @@
+#
+#
+# name: PhD
+# author: Hennig Hasemann (http://leetless.de/vim.html)
+# slug: phd
+# slug-underscored: phd
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5299bf'
+      - bold
+    inactiveBorderColor:
+      - '#717885'
+    searchingActiveBorderColor:
+      - '#f0a000'
+    optionsTextColor:
+      - '#5299bf'
+    selectedLineBgColor:
+      - '#4d5666'
+    cherryPickedCommitBgColor:
+      - '#717885'
+    cherryPickedCommitFgColor:
+      - '#5299bf'
+    markedBaseCommitFgColor:
+      - '#5299bf'
+    unstagedChangesColor:
+      - '#d07346'
+    defaultFgColor:
+      - '#b8bbc2'

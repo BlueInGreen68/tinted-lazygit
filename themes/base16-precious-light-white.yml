@@ -1,0 +1,34 @@
+#
+#
+# name: Precious Light White
+# author: 4lex4 <4lex49@zoho.com>
+# slug: precious-light-white
+# slug-underscored: precious_light_white
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#186daa'
+      - bold
+    inactiveBorderColor:
+      - '#848484'
+    searchingActiveBorderColor:
+      - '#a0570d'
+    optionsTextColor:
+      - '#186daa'
+    selectedLineBgColor:
+      - '#dbdbdb'
+    cherryPickedCommitBgColor:
+      - '#848484'
+    cherryPickedCommitFgColor:
+      - '#186daa'
+    markedBaseCommitFgColor:
+      - '#186daa'
+    unstagedChangesColor:
+      - '#af4947'
+    defaultFgColor:
+      - '#555555'

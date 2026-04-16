@@ -1,0 +1,34 @@
+#
+#
+# name: DanQing
+# author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# slug: danqing
+# slug-underscored: danqing
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b0a4e3'
+      - bold
+    inactiveBorderColor:
+      - '#9da8a3'
+    searchingActiveBorderColor:
+      - '#b38a61'
+    optionsTextColor:
+      - '#b0a4e3'
+    selectedLineBgColor:
+      - '#5a605d'
+    cherryPickedCommitBgColor:
+      - '#9da8a3'
+    cherryPickedCommitFgColor:
+      - '#b0a4e3'
+    markedBaseCommitFgColor:
+      - '#b0a4e3'
+    unstagedChangesColor:
+      - '#f9906f'
+    defaultFgColor:
+      - '#e0f0ef'

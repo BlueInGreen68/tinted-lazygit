@@ -1,0 +1,34 @@
+#
+#
+# name: Mocha
+# author: Chris Kempson (http://chriskempson.com)
+# slug: mocha
+# slug-underscored: mocha
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8ab3b5'
+      - bold
+    inactiveBorderColor:
+      - '#7e705a'
+    searchingActiveBorderColor:
+      - '#d28b71'
+    optionsTextColor:
+      - '#8ab3b5'
+    selectedLineBgColor:
+      - '#645240'
+    cherryPickedCommitBgColor:
+      - '#7e705a'
+    cherryPickedCommitFgColor:
+      - '#8ab3b5'
+    markedBaseCommitFgColor:
+      - '#8ab3b5'
+    unstagedChangesColor:
+      - '#cb6077'
+    defaultFgColor:
+      - '#d0c8c6'

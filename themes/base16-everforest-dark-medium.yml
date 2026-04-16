@@ -1,0 +1,34 @@
+#
+#
+# name: Everforest Dark Medium
+# author: Sainnhe Park (https://github.com/sainnhe)
+# slug: everforest-dark-medium
+# slug-underscored: everforest_dark_medium
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7fbbb3'
+      - bold
+    inactiveBorderColor:
+      - '#475258'
+    searchingActiveBorderColor:
+      - '#e69875'
+    optionsTextColor:
+      - '#7fbbb3'
+    selectedLineBgColor:
+      - '#3d484d'
+    cherryPickedCommitBgColor:
+      - '#475258'
+    cherryPickedCommitFgColor:
+      - '#7fbbb3'
+    markedBaseCommitFgColor:
+      - '#7fbbb3'
+    unstagedChangesColor:
+      - '#e67e80'
+    defaultFgColor:
+      - '#859289'

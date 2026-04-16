@@ -1,0 +1,34 @@
+#
+#
+# name: Unikitty Light
+# author: Josh W Lewis (@joshwlewis)
+# slug: unikitty-light
+# slug-underscored: unikitty_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#775dff'
+      - bold
+    inactiveBorderColor:
+      - '#a7a5a8'
+    searchingActiveBorderColor:
+      - '#d65407'
+    optionsTextColor:
+      - '#775dff'
+    selectedLineBgColor:
+      - '#c4c3c5'
+    cherryPickedCommitBgColor:
+      - '#a7a5a8'
+    cherryPickedCommitFgColor:
+      - '#775dff'
+    markedBaseCommitFgColor:
+      - '#775dff'
+    unstagedChangesColor:
+      - '#d8137f'
+    defaultFgColor:
+      - '#6c696e'

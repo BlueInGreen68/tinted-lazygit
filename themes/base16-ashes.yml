@@ -1,0 +1,34 @@
+#
+#
+# name: Ashes
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: ashes
+# slug-underscored: ashes
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#ae95c7'
+      - bold
+    inactiveBorderColor:
+      - '#747c84'
+    searchingActiveBorderColor:
+      - '#c7c795'
+    optionsTextColor:
+      - '#ae95c7'
+    selectedLineBgColor:
+      - '#565e65'
+    cherryPickedCommitBgColor:
+      - '#747c84'
+    cherryPickedCommitFgColor:
+      - '#ae95c7'
+    markedBaseCommitFgColor:
+      - '#ae95c7'
+    unstagedChangesColor:
+      - '#c7ae95'
+    defaultFgColor:
+      - '#c7ccd1'

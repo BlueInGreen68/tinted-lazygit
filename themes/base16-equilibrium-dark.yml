@@ -1,0 +1,34 @@
+#
+#
+# name: Equilibrium Dark
+# author: Carlo Abelli
+# slug: equilibrium-dark
+# slug-underscored: equilibrium_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#008dd1'
+      - bold
+    inactiveBorderColor:
+      - '#7b776e'
+    searchingActiveBorderColor:
+      - '#df5923'
+    optionsTextColor:
+      - '#008dd1'
+    selectedLineBgColor:
+      - '#22262d'
+    cherryPickedCommitBgColor:
+      - '#7b776e'
+    cherryPickedCommitFgColor:
+      - '#008dd1'
+    markedBaseCommitFgColor:
+      - '#008dd1'
+    unstagedChangesColor:
+      - '#f04339'
+    defaultFgColor:
+      - '#afaba2'

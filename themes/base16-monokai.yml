@@ -1,0 +1,34 @@
+#
+#
+# name: Monokai
+# author: Wimer Hazenberg (http://www.monokai.nl)
+# slug: monokai
+# slug-underscored: monokai
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#66d9ef'
+      - bold
+    inactiveBorderColor:
+      - '#75715e'
+    searchingActiveBorderColor:
+      - '#fd971f'
+    optionsTextColor:
+      - '#66d9ef'
+    selectedLineBgColor:
+      - '#49483e'
+    cherryPickedCommitBgColor:
+      - '#75715e'
+    cherryPickedCommitFgColor:
+      - '#66d9ef'
+    markedBaseCommitFgColor:
+      - '#66d9ef'
+    unstagedChangesColor:
+      - '#f92672'
+    defaultFgColor:
+      - '#f8f8f2'

@@ -1,0 +1,34 @@
+#
+#
+# name: vice
+# author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# slug: vice
+# slug-underscored: vice
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00eaff'
+      - bold
+    inactiveBorderColor:
+      - '#383a47'
+    searchingActiveBorderColor:
+      - '#85ffe0'
+    optionsTextColor:
+      - '#00eaff'
+    selectedLineBgColor:
+      - '#3c3f4c'
+    cherryPickedCommitBgColor:
+      - '#383a47'
+    cherryPickedCommitFgColor:
+      - '#00eaff'
+    markedBaseCommitFgColor:
+      - '#00eaff'
+    unstagedChangesColor:
+      - '#ff29a8'
+    defaultFgColor:
+      - '#8b9cbe'

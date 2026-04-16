@@ -1,0 +1,34 @@
+#
+#
+# name: Tomorrow Night
+# author: Chris Kempson (http://chriskempson.com)
+# slug: tomorrow-night
+# slug-underscored: tomorrow_night
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#81a2be'
+      - bold
+    inactiveBorderColor:
+      - '#969896'
+    searchingActiveBorderColor:
+      - '#de935f'
+    optionsTextColor:
+      - '#81a2be'
+    selectedLineBgColor:
+      - '#373b41'
+    cherryPickedCommitBgColor:
+      - '#969896'
+    cherryPickedCommitFgColor:
+      - '#81a2be'
+    markedBaseCommitFgColor:
+      - '#81a2be'
+    unstagedChangesColor:
+      - '#cc6666'
+    defaultFgColor:
+      - '#c5c8c6'

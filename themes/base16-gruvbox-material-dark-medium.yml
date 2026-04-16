@@ -1,0 +1,34 @@
+#
+#
+# name: Gruvbox Material Dark, Medium
+# author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# slug: gruvbox-material-dark-medium
+# slug-underscored: gruvbox_material_dark_medium
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7daea3'
+      - bold
+    inactiveBorderColor:
+      - '#665c54'
+    searchingActiveBorderColor:
+      - '#e78a4e'
+    optionsTextColor:
+      - '#7daea3'
+    selectedLineBgColor:
+      - '#504945'
+    cherryPickedCommitBgColor:
+      - '#665c54'
+    cherryPickedCommitFgColor:
+      - '#7daea3'
+    markedBaseCommitFgColor:
+      - '#7daea3'
+    unstagedChangesColor:
+      - '#ea6962'
+    defaultFgColor:
+      - '#ddc7a1'

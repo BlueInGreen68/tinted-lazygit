@@ -1,0 +1,34 @@
+#
+#
+# name: Everforest Light (Hard)
+# author: Márcio Sobel (https://github.com/marciosobel)
+# slug: everforest-light-hard
+# slug-underscored: everforest_light_hard
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3a94c5'
+      - bold
+    inactiveBorderColor:
+      - '#939f91'
+    searchingActiveBorderColor:
+      - '#f57d26'
+    optionsTextColor:
+      - '#3a94c5'
+    selectedLineBgColor:
+      - '#edeada'
+    cherryPickedCommitBgColor:
+      - '#939f91'
+    cherryPickedCommitFgColor:
+      - '#3a94c5'
+    markedBaseCommitFgColor:
+      - '#3a94c5'
+    unstagedChangesColor:
+      - '#f85552'
+    defaultFgColor:
+      - '#5c6a72'

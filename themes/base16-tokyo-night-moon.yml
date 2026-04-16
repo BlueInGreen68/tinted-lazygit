@@ -1,0 +1,34 @@
+#
+#
+# name: Tokyo Night Moon
+# author: Ólafur Bjarki Bogason
+# slug: tokyo-night-moon
+# slug-underscored: tokyo_night_moon
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82aaff'
+      - bold
+    inactiveBorderColor:
+      - '#3b4261'
+    searchingActiveBorderColor:
+      - '#ffc777'
+    optionsTextColor:
+      - '#82aaff'
+    selectedLineBgColor:
+      - '#2d3f76'
+    cherryPickedCommitBgColor:
+      - '#3b4261'
+    cherryPickedCommitFgColor:
+      - '#82aaff'
+    markedBaseCommitFgColor:
+      - '#82aaff'
+    unstagedChangesColor:
+      - '#ff757f'
+    defaultFgColor:
+      - '#828bb8'

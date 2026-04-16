@@ -1,0 +1,34 @@
+#
+#
+# name: Woodland
+# author: Jay Cornwall (https://jcornwall.com)
+# slug: woodland
+# slug-underscored: woodland
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#88a4d3'
+      - bold
+    inactiveBorderColor:
+      - '#9d8b70'
+    searchingActiveBorderColor:
+      - '#ca7f32'
+    optionsTextColor:
+      - '#88a4d3'
+    selectedLineBgColor:
+      - '#48413a'
+    cherryPickedCommitBgColor:
+      - '#9d8b70'
+    cherryPickedCommitFgColor:
+      - '#88a4d3'
+    markedBaseCommitFgColor:
+      - '#88a4d3'
+    unstagedChangesColor:
+      - '#d35c5c'
+    defaultFgColor:
+      - '#cabcb1'

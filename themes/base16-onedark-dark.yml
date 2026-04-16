@@ -1,0 +1,34 @@
+#
+#
+# name: OneDark Dark
+# author: olimorris (https://github.com/olimorris)
+# slug: onedark-dark
+# slug-underscored: onedark_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#61afef'
+      - bold
+    inactiveBorderColor:
+      - '#434852'
+    searchingActiveBorderColor:
+      - '#d19a66'
+    optionsTextColor:
+      - '#61afef'
+    selectedLineBgColor:
+      - '#2c313a'
+    cherryPickedCommitBgColor:
+      - '#434852'
+    cherryPickedCommitFgColor:
+      - '#61afef'
+    markedBaseCommitFgColor:
+      - '#61afef'
+    unstagedChangesColor:
+      - '#ef596f'
+    defaultFgColor:
+      - '#abb2bf'

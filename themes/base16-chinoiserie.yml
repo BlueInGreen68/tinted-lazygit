@@ -1,0 +1,34 @@
+#
+#
+# name: Chinoiserie
+# author: Di Wang (https://cs.cmu.edu/~diw3)
+# slug: chinoiserie
+# slug-underscored: chinoiserie
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#815c94'
+      - bold
+    inactiveBorderColor:
+      - '#80766e'
+    searchingActiveBorderColor:
+      - '#fb8b05'
+    optionsTextColor:
+      - '#815c94'
+    selectedLineBgColor:
+      - '#d6d6d6'
+    cherryPickedCommitBgColor:
+      - '#80766e'
+    cherryPickedCommitFgColor:
+      - '#815c94'
+    markedBaseCommitFgColor:
+      - '#815c94'
+    unstagedChangesColor:
+      - '#c04851'
+    defaultFgColor:
+      - '#4a4035'

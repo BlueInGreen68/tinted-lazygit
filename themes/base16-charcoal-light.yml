@@ -1,0 +1,34 @@
+#
+#
+# name: Charcoal Light
+# author: Mubin Muhammad (https://github.com/mubin6th)
+# slug: charcoal-light
+# slug-underscored: charcoal_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#251e0f'
+      - bold
+    inactiveBorderColor:
+      - '#645538'
+    searchingActiveBorderColor:
+      - '#110e06'
+    optionsTextColor:
+      - '#251e0f'
+    selectedLineBgColor:
+      - '#af9f7d'
+    cherryPickedCommitBgColor:
+      - '#645538'
+    cherryPickedCommitFgColor:
+      - '#251e0f'
+    markedBaseCommitFgColor:
+      - '#251e0f'
+    unstagedChangesColor:
+      - '#382e1b'
+    defaultFgColor:
+      - '#382e1b'

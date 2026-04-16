@@ -1,0 +1,34 @@
+#
+#
+# name: Valua
+# author: Nonetrix (https://github.com/nonetrix)
+# slug: valua
+# slug-underscored: valua
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4ed2d2'
+      - bold
+    inactiveBorderColor:
+      - '#3e5c53'
+    searchingActiveBorderColor:
+      - '#e6b466'
+    optionsTextColor:
+      - '#4ed2d2'
+    selectedLineBgColor:
+      - '#273d3c'
+    cherryPickedCommitBgColor:
+      - '#3e5c53'
+    cherryPickedCommitFgColor:
+      - '#4ed2d2'
+    markedBaseCommitFgColor:
+      - '#4ed2d2'
+    unstagedChangesColor:
+      - '#d7586e'
+    defaultFgColor:
+      - '#98c1a3'

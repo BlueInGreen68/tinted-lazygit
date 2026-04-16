@@ -1,0 +1,34 @@
+#
+#
+# name: Hopscotch
+# author: Jan T. Sott
+# slug: hopscotch
+# slug-underscored: hopscotch
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#1290bf'
+      - bold
+    inactiveBorderColor:
+      - '#797379'
+    searchingActiveBorderColor:
+      - '#fd8b19'
+    optionsTextColor:
+      - '#1290bf'
+    selectedLineBgColor:
+      - '#5c545b'
+    cherryPickedCommitBgColor:
+      - '#797379'
+    cherryPickedCommitFgColor:
+      - '#1290bf'
+    markedBaseCommitFgColor:
+      - '#1290bf'
+    unstagedChangesColor:
+      - '#dd464c'
+    defaultFgColor:
+      - '#b9b5b8'

@@ -1,0 +1,34 @@
+#
+#
+# name: Kanagawa Dragon
+# author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
+# slug: kanagawa-dragon
+# slug-underscored: kanagawa_dragon
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8ba4b0'
+      - bold
+    inactiveBorderColor:
+      - '#625e5a'
+    searchingActiveBorderColor:
+      - '#b6927b'
+    optionsTextColor:
+      - '#8ba4b0'
+    selectedLineBgColor:
+      - '#393836'
+    cherryPickedCommitBgColor:
+      - '#625e5a'
+    cherryPickedCommitFgColor:
+      - '#8ba4b0'
+    markedBaseCommitFgColor:
+      - '#8ba4b0'
+    unstagedChangesColor:
+      - '#c4746e'
+    defaultFgColor:
+      - '#c5c9c5'

@@ -1,0 +1,34 @@
+#
+#
+# name: Embers Light
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: embers-light
+# slug-underscored: embers_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6d5782'
+      - bold
+    inactiveBorderColor:
+      - '#8a8075'
+    searchingActiveBorderColor:
+      - '#828257'
+    optionsTextColor:
+      - '#6d5782'
+    selectedLineBgColor:
+      - '#a39a90'
+    cherryPickedCommitBgColor:
+      - '#8a8075'
+    cherryPickedCommitFgColor:
+      - '#6d5782'
+    markedBaseCommitFgColor:
+      - '#6d5782'
+    unstagedChangesColor:
+      - '#826d57'
+    defaultFgColor:
+      - '#433b32'

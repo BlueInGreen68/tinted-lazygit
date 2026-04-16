@@ -1,0 +1,34 @@
+#
+#
+# name: Jabuti
+# author: https://github.com/notusknot
+# slug: jabuti
+# slug-underscored: jabuti
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3fc6de'
+      - bold
+    inactiveBorderColor:
+      - '#45475d'
+    searchingActiveBorderColor:
+      - '#efb993'
+    optionsTextColor:
+      - '#3fc6de'
+    selectedLineBgColor:
+      - '#3c3e51'
+    cherryPickedCommitBgColor:
+      - '#45475d'
+    cherryPickedCommitFgColor:
+      - '#3fc6de'
+    markedBaseCommitFgColor:
+      - '#3fc6de'
+    unstagedChangesColor:
+      - '#ec6a88'
+    defaultFgColor:
+      - '#c0cbe3'

@@ -1,0 +1,34 @@
+#
+#
+# name: Google Dark
+# author: Seth Wright (http://sethawright.com)
+# slug: google-dark
+# slug-underscored: google_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3971ed'
+      - bold
+    inactiveBorderColor:
+      - '#969896'
+    searchingActiveBorderColor:
+      - '#f96a38'
+    optionsTextColor:
+      - '#3971ed'
+    selectedLineBgColor:
+      - '#373b41'
+    cherryPickedCommitBgColor:
+      - '#969896'
+    cherryPickedCommitFgColor:
+      - '#3971ed'
+    markedBaseCommitFgColor:
+      - '#3971ed'
+    unstagedChangesColor:
+      - '#cc342b'
+    defaultFgColor:
+      - '#c5c8c6'

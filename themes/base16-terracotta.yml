@@ -1,0 +1,34 @@
+#
+#
+# name: Terracotta
+# author: Alexander Rossell Hayes (https://github.com/rossellhayes)
+# slug: terracotta
+# slug-underscored: terracotta
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#625574'
+      - bold
+    inactiveBorderColor:
+      - '#c0aca4'
+    searchingActiveBorderColor:
+      - '#bd6942'
+    optionsTextColor:
+      - '#625574'
+    selectedLineBgColor:
+      - '#d0c1bb'
+    cherryPickedCommitBgColor:
+      - '#c0aca4'
+    cherryPickedCommitFgColor:
+      - '#625574'
+    markedBaseCommitFgColor:
+      - '#625574'
+    unstagedChangesColor:
+      - '#a75045'
+    defaultFgColor:
+      - '#473731'

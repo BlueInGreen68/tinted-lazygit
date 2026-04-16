@@ -1,0 +1,34 @@
+#
+#
+# name: Gruvbox dark, soft
+# author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-dark-soft
+# slug-underscored: gruvbox_dark_soft
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#83a598'
+      - bold
+    inactiveBorderColor:
+      - '#665c54'
+    searchingActiveBorderColor:
+      - '#fe8019'
+    optionsTextColor:
+      - '#83a598'
+    selectedLineBgColor:
+      - '#504945'
+    cherryPickedCommitBgColor:
+      - '#665c54'
+    cherryPickedCommitFgColor:
+      - '#83a598'
+    markedBaseCommitFgColor:
+      - '#83a598'
+    unstagedChangesColor:
+      - '#fb4934'
+    defaultFgColor:
+      - '#d5c4a1'

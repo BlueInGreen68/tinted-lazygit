@@ -1,0 +1,34 @@
+#
+#
+# name: Material
+# author: Nate Peterson
+# slug: material
+# slug-underscored: material
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82aaff'
+      - bold
+    inactiveBorderColor:
+      - '#546e7a'
+    searchingActiveBorderColor:
+      - '#f78c6c'
+    optionsTextColor:
+      - '#82aaff'
+    selectedLineBgColor:
+      - '#314549'
+    cherryPickedCommitBgColor:
+      - '#546e7a'
+    cherryPickedCommitFgColor:
+      - '#82aaff'
+    markedBaseCommitFgColor:
+      - '#82aaff'
+    unstagedChangesColor:
+      - '#f07178'
+    defaultFgColor:
+      - '#eeffff'

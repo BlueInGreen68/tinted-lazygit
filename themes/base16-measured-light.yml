@@ -1,0 +1,34 @@
+#
+#
+# name: Measured Light
+# author: Measured (https://measured.co)
+# slug: measured-light
+# slug-underscored: measured_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0158ad'
+      - bold
+    inactiveBorderColor:
+      - '#5a5a5a'
+    searchingActiveBorderColor:
+      - '#ad5601'
+    optionsTextColor:
+      - '#0158ad'
+    selectedLineBgColor:
+      - '#ffeada'
+    cherryPickedCommitBgColor:
+      - '#5a5a5a'
+    cherryPickedCommitFgColor:
+      - '#0158ad'
+    markedBaseCommitFgColor:
+      - '#0158ad'
+    unstagedChangesColor:
+      - '#ac1f35'
+    defaultFgColor:
+      - '#292929'

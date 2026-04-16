@@ -1,0 +1,34 @@
+#
+#
+# name: Framer
+# author: Framer (Maintained by Jesse Hoyos)
+# slug: framer
+# slug-underscored: framer
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#20bcfc'
+      - bold
+    inactiveBorderColor:
+      - '#747474'
+    searchingActiveBorderColor:
+      - '#fc4769'
+    optionsTextColor:
+      - '#20bcfc'
+    selectedLineBgColor:
+      - '#464646'
+    cherryPickedCommitBgColor:
+      - '#747474'
+    cherryPickedCommitFgColor:
+      - '#20bcfc'
+    markedBaseCommitFgColor:
+      - '#20bcfc'
+    unstagedChangesColor:
+      - '#fd886b'
+    defaultFgColor:
+      - '#d0d0d0'

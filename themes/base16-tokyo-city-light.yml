@@ -1,0 +1,34 @@
+#
+#
+# name: Tokyo City Light
+# author: Michaël Ball
+# slug: tokyo-city-light
+# slug-underscored: tokyo_city_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#34548a'
+      - bold
+    inactiveBorderColor:
+      - '#9699a3'
+    searchingActiveBorderColor:
+      - '#965027'
+    optionsTextColor:
+      - '#34548a'
+    selectedLineBgColor:
+      - '#edeff6'
+    cherryPickedCommitBgColor:
+      - '#9699a3'
+    cherryPickedCommitFgColor:
+      - '#34548a'
+    markedBaseCommitFgColor:
+      - '#34548a'
+    unstagedChangesColor:
+      - '#8c4351'
+    defaultFgColor:
+      - '#343b59'

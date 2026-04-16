@@ -1,0 +1,34 @@
+#
+#
+# name: Chicago Night
+# author: Wendell, Ryan <ryanjwendell@gmail.com>
+# slug: chicago-night
+# slug-underscored: chicago_night
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#522398'
+      - bold
+    inactiveBorderColor:
+      - '#5f7368'
+    searchingActiveBorderColor:
+      - '#f9461c'
+    optionsTextColor:
+      - '#522398'
+    selectedLineBgColor:
+      - '#364c40'
+    cherryPickedCommitBgColor:
+      - '#5f7368'
+    cherryPickedCommitFgColor:
+      - '#522398'
+    markedBaseCommitFgColor:
+      - '#522398'
+    unstagedChangesColor:
+      - '#c60c30'
+    defaultFgColor:
+      - '#a7b8af'

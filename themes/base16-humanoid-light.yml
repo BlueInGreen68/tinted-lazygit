@@ -1,0 +1,34 @@
+#
+#
+# name: Humanoid light
+# author: Thomas (tasmo) Friese
+# slug: humanoid-light
+# slug-underscored: humanoid_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0082c9'
+      - bold
+    inactiveBorderColor:
+      - '#c0c0bd'
+    searchingActiveBorderColor:
+      - '#ff3d00'
+    optionsTextColor:
+      - '#0082c9'
+    selectedLineBgColor:
+      - '#deded8'
+    cherryPickedCommitBgColor:
+      - '#c0c0bd'
+    cherryPickedCommitFgColor:
+      - '#0082c9'
+    markedBaseCommitFgColor:
+      - '#0082c9'
+    unstagedChangesColor:
+      - '#b0151a'
+    defaultFgColor:
+      - '#232629'

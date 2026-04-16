@@ -1,0 +1,34 @@
+#
+#
+# name: standardized-light
+# author: ali (https://github.com/ali-githb/base16-standardized-scheme)
+# slug: standardized-light
+# slug-underscored: standardized_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3173c5'
+      - bold
+    inactiveBorderColor:
+      - '#767676'
+    searchingActiveBorderColor:
+      - '#d7691d'
+    optionsTextColor:
+      - '#3173c5'
+    selectedLineBgColor:
+      - '#cccccc'
+    cherryPickedCommitBgColor:
+      - '#767676'
+    cherryPickedCommitFgColor:
+      - '#3173c5'
+    markedBaseCommitFgColor:
+      - '#3173c5'
+    unstagedChangesColor:
+      - '#d03e3e'
+    defaultFgColor:
+      - '#444444'

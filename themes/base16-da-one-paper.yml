@@ -1,0 +1,34 @@
+#
+#
+# name: Da One Paper
+# author: NNB (https://github.com/NNBnh)
+# slug: da-one-paper
+# slug-underscored: da_one_paper
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5890f8'
+      - bold
+    inactiveBorderColor:
+      - '#585858'
+    searchingActiveBorderColor:
+      - '#ff9470'
+    optionsTextColor:
+      - '#5890f8'
+    selectedLineBgColor:
+      - '#888888'
+    cherryPickedCommitBgColor:
+      - '#585858'
+    cherryPickedCommitFgColor:
+      - '#5890f8'
+    markedBaseCommitFgColor:
+      - '#5890f8'
+    unstagedChangesColor:
+      - '#de5d6e'
+    defaultFgColor:
+      - '#181818'

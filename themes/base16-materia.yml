@@ -1,0 +1,34 @@
+#
+#
+# name: Materia
+# author: Defman21
+# slug: materia
+# slug-underscored: materia
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#89ddff'
+      - bold
+    inactiveBorderColor:
+      - '#707880'
+    searchingActiveBorderColor:
+      - '#ea9560'
+    optionsTextColor:
+      - '#89ddff'
+    selectedLineBgColor:
+      - '#37474f'
+    cherryPickedCommitBgColor:
+      - '#707880'
+    cherryPickedCommitFgColor:
+      - '#89ddff'
+    markedBaseCommitFgColor:
+      - '#89ddff'
+    unstagedChangesColor:
+      - '#ec5f67'
+    defaultFgColor:
+      - '#cdd3de'

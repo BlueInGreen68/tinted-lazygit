@@ -1,0 +1,34 @@
+#
+#
+# name: Classic Light
+# author: Jason Heeris (http://heeris.id.au)
+# slug: classic-light
+# slug-underscored: classic_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6a9fb5'
+      - bold
+    inactiveBorderColor:
+      - '#b0b0b0'
+    searchingActiveBorderColor:
+      - '#d28445'
+    optionsTextColor:
+      - '#6a9fb5'
+    selectedLineBgColor:
+      - '#d0d0d0'
+    cherryPickedCommitBgColor:
+      - '#b0b0b0'
+    cherryPickedCommitFgColor:
+      - '#6a9fb5'
+    markedBaseCommitFgColor:
+      - '#6a9fb5'
+    unstagedChangesColor:
+      - '#ac4142'
+    defaultFgColor:
+      - '#303030'

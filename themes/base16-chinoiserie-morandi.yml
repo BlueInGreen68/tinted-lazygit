@@ -1,0 +1,34 @@
+#
+#
+# name: Chinoiserie Morandi
+# author: Di Wang (https://cs.cmu.edu/~diw3)
+# slug: chinoiserie-morandi
+# slug-underscored: chinoiserie_morandi
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#839ec9'
+      - bold
+    inactiveBorderColor:
+      - '#918072'
+    searchingActiveBorderColor:
+      - '#ff937f'
+    optionsTextColor:
+      - '#839ec9'
+    selectedLineBgColor:
+      - '#373737'
+    cherryPickedCommitBgColor:
+      - '#918072'
+    cherryPickedCommitFgColor:
+      - '#839ec9'
+    markedBaseCommitFgColor:
+      - '#839ec9'
+    unstagedChangesColor:
+      - '#c06061'
+    defaultFgColor:
+      - '#c4cbcf'

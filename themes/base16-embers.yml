@@ -1,0 +1,34 @@
+#
+#
+# name: Embers
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: embers
+# slug-underscored: embers
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6d5782'
+      - bold
+    inactiveBorderColor:
+      - '#5a5047'
+    searchingActiveBorderColor:
+      - '#828257'
+    optionsTextColor:
+      - '#6d5782'
+    selectedLineBgColor:
+      - '#433b32'
+    cherryPickedCommitBgColor:
+      - '#5a5047'
+    cherryPickedCommitFgColor:
+      - '#6d5782'
+    markedBaseCommitFgColor:
+      - '#6d5782'
+    unstagedChangesColor:
+      - '#826d57'
+    defaultFgColor:
+      - '#a39a90'

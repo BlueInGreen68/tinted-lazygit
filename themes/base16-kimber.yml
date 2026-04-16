@@ -1,0 +1,34 @@
+#
+#
+# name: Kimber
+# author: Mishka Nguyen (https://github.com/akhsiM)
+# slug: kimber
+# slug-underscored: kimber
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#537c9c'
+      - bold
+    inactiveBorderColor:
+      - '#644646'
+    searchingActiveBorderColor:
+      - '#476c88'
+    optionsTextColor:
+      - '#537c9c'
+    selectedLineBgColor:
+      - '#555d55'
+    cherryPickedCommitBgColor:
+      - '#644646'
+    cherryPickedCommitFgColor:
+      - '#537c9c'
+    markedBaseCommitFgColor:
+      - '#537c9c'
+    unstagedChangesColor:
+      - '#c88c8c'
+    defaultFgColor:
+      - '#dedee7'

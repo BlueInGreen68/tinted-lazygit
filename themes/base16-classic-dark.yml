@@ -1,0 +1,34 @@
+#
+#
+# name: Classic Dark
+# author: Jason Heeris (http://heeris.id.au)
+# slug: classic-dark
+# slug-underscored: classic_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6a9fb5'
+      - bold
+    inactiveBorderColor:
+      - '#505050'
+    searchingActiveBorderColor:
+      - '#d28445'
+    optionsTextColor:
+      - '#6a9fb5'
+    selectedLineBgColor:
+      - '#303030'
+    cherryPickedCommitBgColor:
+      - '#505050'
+    cherryPickedCommitFgColor:
+      - '#6a9fb5'
+    markedBaseCommitFgColor:
+      - '#6a9fb5'
+    unstagedChangesColor:
+      - '#ac4142'
+    defaultFgColor:
+      - '#d0d0d0'

@@ -1,0 +1,34 @@
+#
+#
+# name: Flexoki Dark
+# author: Steph Ango (https://github.com/kepano/flexoki)
+# slug: flexoki-dark
+# slug-underscored: flexoki_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4385be'
+      - bold
+    inactiveBorderColor:
+      - '#575653'
+    searchingActiveBorderColor:
+      - '#da702c'
+    optionsTextColor:
+      - '#4385be'
+    selectedLineBgColor:
+      - '#282726'
+    cherryPickedCommitBgColor:
+      - '#575653'
+    cherryPickedCommitFgColor:
+      - '#4385be'
+    markedBaseCommitFgColor:
+      - '#4385be'
+    unstagedChangesColor:
+      - '#d14d41'
+    defaultFgColor:
+      - '#cecdc3'

@@ -1,0 +1,34 @@
+#
+#
+# name: 0x96f
+# author: Filip Janevski (https://0x96f.dev/theme)
+# slug: 0x96f
+# slug-underscored: 0x96f
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#49cae4'
+      - bold
+    inactiveBorderColor:
+      - '#676567'
+    searchingActiveBorderColor:
+      - '#fc9d6f'
+    optionsTextColor:
+      - '#49cae4'
+    selectedLineBgColor:
+      - '#514f52'
+    cherryPickedCommitBgColor:
+      - '#676567'
+    cherryPickedCommitFgColor:
+      - '#49cae4'
+    markedBaseCommitFgColor:
+      - '#49cae4'
+    unstagedChangesColor:
+      - '#ff7272'
+    defaultFgColor:
+      - '#fcfcfc'

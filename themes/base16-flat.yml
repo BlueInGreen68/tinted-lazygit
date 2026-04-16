@@ -1,0 +1,34 @@
+#
+#
+# name: Flat
+# author: Chris Kempson (http://chriskempson.com)
+# slug: flat
+# slug-underscored: flat
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3498db'
+      - bold
+    inactiveBorderColor:
+      - '#95a5a6'
+    searchingActiveBorderColor:
+      - '#e67e22'
+    optionsTextColor:
+      - '#3498db'
+    selectedLineBgColor:
+      - '#7f8c8d'
+    cherryPickedCommitBgColor:
+      - '#95a5a6'
+    cherryPickedCommitFgColor:
+      - '#3498db'
+    markedBaseCommitFgColor:
+      - '#3498db'
+    unstagedChangesColor:
+      - '#e74c3c'
+    defaultFgColor:
+      - '#e0e0e0'

@@ -1,0 +1,34 @@
+#
+#
+# name: Nord
+# author: arcticicestudio
+# slug: nord
+# slug-underscored: nord
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#81a1c1'
+      - bold
+    inactiveBorderColor:
+      - '#4c566a'
+    searchingActiveBorderColor:
+      - '#d08770'
+    optionsTextColor:
+      - '#81a1c1'
+    selectedLineBgColor:
+      - '#434c5e'
+    cherryPickedCommitBgColor:
+      - '#4c566a'
+    cherryPickedCommitFgColor:
+      - '#81a1c1'
+    markedBaseCommitFgColor:
+      - '#81a1c1'
+    unstagedChangesColor:
+      - '#bf616a'
+    defaultFgColor:
+      - '#e5e9f0'

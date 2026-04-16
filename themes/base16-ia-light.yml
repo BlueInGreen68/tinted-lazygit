@@ -1,0 +1,34 @@
+#
+#
+# name: iA Light
+# author: iA Inc. (modified by aramisgithub)
+# slug: ia-light
+# slug-underscored: ia_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#48bac2'
+      - bold
+    inactiveBorderColor:
+      - '#898989'
+    searchingActiveBorderColor:
+      - '#c43e18'
+    optionsTextColor:
+      - '#48bac2'
+    selectedLineBgColor:
+      - '#bde5f2'
+    cherryPickedCommitBgColor:
+      - '#898989'
+    cherryPickedCommitFgColor:
+      - '#48bac2'
+    markedBaseCommitFgColor:
+      - '#48bac2'
+    unstagedChangesColor:
+      - '#9c5a02'
+    defaultFgColor:
+      - '#181818'

@@ -1,0 +1,34 @@
+#
+#
+# name: XCode Dusk
+# author: Elsa Gonsiorowski (https://github.com/gonsie)
+# slug: xcode-dusk
+# slug-underscored: xcode_dusk
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#790ead'
+      - bold
+    inactiveBorderColor:
+      - '#686a71'
+    searchingActiveBorderColor:
+      - '#786dc5'
+    optionsTextColor:
+      - '#790ead'
+    selectedLineBgColor:
+      - '#53555d'
+    cherryPickedCommitBgColor:
+      - '#686a71'
+    cherryPickedCommitFgColor:
+      - '#790ead'
+    markedBaseCommitFgColor:
+      - '#790ead'
+    unstagedChangesColor:
+      - '#b21889'
+    defaultFgColor:
+      - '#939599'

@@ -1,0 +1,34 @@
+#
+#
+# name: Penumbra Dark
+# author: Zachary Weiss (https://github.com/zacharyweiss)
+# slug: penumbra-dark
+# slug-underscored: penumbra_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5794d0'
+      - bold
+    inactiveBorderColor:
+      - '#636363'
+    searchingActiveBorderColor:
+      - '#ba823a'
+    optionsTextColor:
+      - '#5794d0'
+    selectedLineBgColor:
+      - '#3e4044'
+    cherryPickedCommitBgColor:
+      - '#636363'
+    cherryPickedCommitFgColor:
+      - '#5794d0'
+    markedBaseCommitFgColor:
+      - '#5794d0'
+    unstagedChangesColor:
+      - '#ca736c'
+    defaultFgColor:
+      - '#bebebe'

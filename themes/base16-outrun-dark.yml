@@ -1,0 +1,34 @@
+#
+#
+# name: Outrun Dark
+# author: Hugo Delahousse (http://github.com/hugodelahousse/)
+# slug: outrun-dark
+# slug-underscored: outrun_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#66b0ff'
+      - bold
+    inactiveBorderColor:
+      - '#50507a'
+    searchingActiveBorderColor:
+      - '#fc8d28'
+    optionsTextColor:
+      - '#66b0ff'
+    selectedLineBgColor:
+      - '#30305a'
+    cherryPickedCommitBgColor:
+      - '#50507a'
+    cherryPickedCommitFgColor:
+      - '#66b0ff'
+    markedBaseCommitFgColor:
+      - '#66b0ff'
+    unstagedChangesColor:
+      - '#ff4242'
+    defaultFgColor:
+      - '#d0d0fa'

@@ -1,0 +1,34 @@
+#
+#
+# name: Macintosh
+# author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# slug: macintosh
+# slug-underscored: macintosh
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0000d3'
+      - bold
+    inactiveBorderColor:
+      - '#808080'
+    searchingActiveBorderColor:
+      - '#ff6403'
+    optionsTextColor:
+      - '#0000d3'
+    selectedLineBgColor:
+      - '#404040'
+    cherryPickedCommitBgColor:
+      - '#808080'
+    cherryPickedCommitFgColor:
+      - '#0000d3'
+    markedBaseCommitFgColor:
+      - '#0000d3'
+    unstagedChangesColor:
+      - '#dd0907'
+    defaultFgColor:
+      - '#c0c0c0'

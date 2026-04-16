@@ -1,0 +1,34 @@
+#
+#
+# name: Porple
+# author: Niek den Breeje (https://github.com/AuditeMarlow)
+# slug: porple
+# slug-underscored: porple
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8485ce'
+      - bold
+    inactiveBorderColor:
+      - '#65568a'
+    searchingActiveBorderColor:
+      - '#d28e5d'
+    optionsTextColor:
+      - '#8485ce'
+    selectedLineBgColor:
+      - '#474160'
+    cherryPickedCommitBgColor:
+      - '#65568a'
+    cherryPickedCommitFgColor:
+      - '#8485ce'
+    markedBaseCommitFgColor:
+      - '#8485ce'
+    unstagedChangesColor:
+      - '#f84547'
+    defaultFgColor:
+      - '#d8d8d8'

@@ -1,0 +1,34 @@
+#
+#
+# name: Material Vivid
+# author: joshyrobot
+# slug: material-vivid
+# slug-underscored: material_vivid
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2196f3'
+      - bold
+    inactiveBorderColor:
+      - '#44464d'
+    searchingActiveBorderColor:
+      - '#ff9800'
+    optionsTextColor:
+      - '#2196f3'
+    selectedLineBgColor:
+      - '#323639'
+    cherryPickedCommitBgColor:
+      - '#44464d'
+    cherryPickedCommitFgColor:
+      - '#2196f3'
+    markedBaseCommitFgColor:
+      - '#2196f3'
+    unstagedChangesColor:
+      - '#f44336'
+    defaultFgColor:
+      - '#80868b'

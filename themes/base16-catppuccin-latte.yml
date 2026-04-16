@@ -1,0 +1,34 @@
+#
+#
+# name: Catppuccin Latte
+# author: https://github.com/catppuccin/catppuccin
+# slug: catppuccin-latte
+# slug-underscored: catppuccin_latte
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#1e66f5'
+      - bold
+    inactiveBorderColor:
+      - '#bcc0cc'
+    searchingActiveBorderColor:
+      - '#fe640b'
+    optionsTextColor:
+      - '#1e66f5'
+    selectedLineBgColor:
+      - '#ccd0da'
+    cherryPickedCommitBgColor:
+      - '#bcc0cc'
+    cherryPickedCommitFgColor:
+      - '#1e66f5'
+    markedBaseCommitFgColor:
+      - '#1e66f5'
+    unstagedChangesColor:
+      - '#d20f39'
+    defaultFgColor:
+      - '#4c4f69'

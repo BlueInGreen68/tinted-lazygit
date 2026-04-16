@@ -1,0 +1,34 @@
+#
+#
+# name: SAGA
+# author: https://github.com/SAGAtheme/SAGA
+# slug: saga
+# slug-underscored: saga
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c9fff7'
+      - bold
+    inactiveBorderColor:
+      - '#141f27'
+    searchingActiveBorderColor:
+      - '#fbcbae'
+    optionsTextColor:
+      - '#c9fff7'
+    selectedLineBgColor:
+      - '#0f181e'
+    cherryPickedCommitBgColor:
+      - '#141f27'
+    cherryPickedCommitFgColor:
+      - '#c9fff7'
+    markedBaseCommitFgColor:
+      - '#c9fff7'
+    unstagedChangesColor:
+      - '#ffd4e9'
+    defaultFgColor:
+      - '#dce2f7'

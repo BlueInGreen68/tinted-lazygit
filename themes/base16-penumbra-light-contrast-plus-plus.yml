@@ -1,0 +1,34 @@
+#
+#
+# name: Penumbra Light Contrast Plus Plus
+# author: Zachary Weiss (https://github.com/zacharyweiss)
+# slug: penumbra-light-contrast-plus-plus
+# slug-underscored: penumbra_light_contrast_plus_plus
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6eb2fd'
+      - bold
+    inactiveBorderColor:
+      - '#dedede'
+    searchingActiveBorderColor:
+      - '#e09f47'
+    optionsTextColor:
+      - '#6eb2fd'
+    selectedLineBgColor:
+      - '#f2e6d4'
+    cherryPickedCommitBgColor:
+      - '#dedede'
+    cherryPickedCommitFgColor:
+      - '#6eb2fd'
+    markedBaseCommitFgColor:
+      - '#6eb2fd'
+    unstagedChangesColor:
+      - '#f58c81'
+    defaultFgColor:
+      - '#636363'

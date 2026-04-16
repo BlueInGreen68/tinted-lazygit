@@ -1,0 +1,34 @@
+#
+#
+# name: Tomorrow
+# author: Chris Kempson (http://chriskempson.com)
+# slug: tomorrow
+# slug-underscored: tomorrow
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4271ae'
+      - bold
+    inactiveBorderColor:
+      - '#b4b7b4'
+    searchingActiveBorderColor:
+      - '#f5871f'
+    optionsTextColor:
+      - '#4271ae'
+    selectedLineBgColor:
+      - '#c5c8c6'
+    cherryPickedCommitBgColor:
+      - '#b4b7b4'
+    cherryPickedCommitFgColor:
+      - '#4271ae'
+    markedBaseCommitFgColor:
+      - '#4271ae'
+    unstagedChangesColor:
+      - '#c82829'
+    defaultFgColor:
+      - '#373b41'

@@ -1,0 +1,34 @@
+#
+#
+# name: Atelier Forest
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-forest
+# slug-underscored: atelier_forest
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#407ee7'
+      - bold
+    inactiveBorderColor:
+      - '#766e6b'
+    searchingActiveBorderColor:
+      - '#df5320'
+    optionsTextColor:
+      - '#407ee7'
+    selectedLineBgColor:
+      - '#68615e'
+    cherryPickedCommitBgColor:
+      - '#766e6b'
+    cherryPickedCommitFgColor:
+      - '#407ee7'
+    markedBaseCommitFgColor:
+      - '#407ee7'
+    unstagedChangesColor:
+      - '#f22c40'
+    defaultFgColor:
+      - '#a8a19f'

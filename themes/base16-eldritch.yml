@@ -1,0 +1,34 @@
+#
+#
+# name: Eldritch
+# author: https://github.com/eldritch-theme
+# slug: eldritch
+# slug-underscored: eldritch
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#39ddfd'
+      - bold
+    inactiveBorderColor:
+      - '#7081d0'
+    searchingActiveBorderColor:
+      - '#f7c67f'
+    optionsTextColor:
+      - '#39ddfd'
+    selectedLineBgColor:
+      - '#3b4261'
+    cherryPickedCommitBgColor:
+      - '#7081d0'
+    cherryPickedCommitFgColor:
+      - '#39ddfd'
+    markedBaseCommitFgColor:
+      - '#39ddfd'
+    unstagedChangesColor:
+      - '#f16c75'
+    defaultFgColor:
+      - '#ebfafa'

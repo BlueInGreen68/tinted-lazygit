@@ -1,0 +1,34 @@
+#
+#
+# name: Horizon Terminal Light
+# author: Michaël Ball (http://github.com/michael-ball/)
+# slug: horizon-terminal-light
+# slug-underscored: horizon_terminal_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#26bbd9'
+      - bold
+    inactiveBorderColor:
+      - '#bdb3b1'
+    searchingActiveBorderColor:
+      - '#f9cec3'
+    optionsTextColor:
+      - '#26bbd9'
+    selectedLineBgColor:
+      - '#f9cbbe'
+    cherryPickedCommitBgColor:
+      - '#bdb3b1'
+    cherryPickedCommitFgColor:
+      - '#26bbd9'
+    markedBaseCommitFgColor:
+      - '#26bbd9'
+    unstagedChangesColor:
+      - '#e95678'
+    defaultFgColor:
+      - '#403c3d'

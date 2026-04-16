@@ -1,0 +1,34 @@
+#
+#
+# name: Seti UI
+# author: 
+# slug: seti
+# slug-underscored: seti
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#55b5db'
+      - bold
+    inactiveBorderColor:
+      - '#41535b'
+    searchingActiveBorderColor:
+      - '#db7b55'
+    optionsTextColor:
+      - '#55b5db'
+    selectedLineBgColor:
+      - '#3b758c'
+    cherryPickedCommitBgColor:
+      - '#41535b'
+    cherryPickedCommitFgColor:
+      - '#55b5db'
+    markedBaseCommitFgColor:
+      - '#55b5db'
+    unstagedChangesColor:
+      - '#cd3f45'
+    defaultFgColor:
+      - '#d6d6d6'

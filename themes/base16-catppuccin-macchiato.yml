@@ -1,0 +1,34 @@
+#
+#
+# name: Catppuccin Macchiato
+# author: https://github.com/catppuccin/catppuccin
+# slug: catppuccin-macchiato
+# slug-underscored: catppuccin_macchiato
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8aadf4'
+      - bold
+    inactiveBorderColor:
+      - '#494d64'
+    searchingActiveBorderColor:
+      - '#f5a97f'
+    optionsTextColor:
+      - '#8aadf4'
+    selectedLineBgColor:
+      - '#363a4f'
+    cherryPickedCommitBgColor:
+      - '#494d64'
+    cherryPickedCommitFgColor:
+      - '#8aadf4'
+    markedBaseCommitFgColor:
+      - '#8aadf4'
+    unstagedChangesColor:
+      - '#ed8796'
+    defaultFgColor:
+      - '#cad3f5'

@@ -1,0 +1,34 @@
+#
+#
+# name: Tokyodark
+# author: Jamy Golden (https://github.com/JamyGolden), Based on Tokyodark.nvim (https://github.com/tiagovla/tokyodark.nvim)
+# slug: tokyodark
+# slug-underscored: tokyodark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7199ee'
+      - bold
+    inactiveBorderColor:
+      - '#353945'
+    searchingActiveBorderColor:
+      - '#f6955b'
+    optionsTextColor:
+      - '#7199ee'
+    selectedLineBgColor:
+      - '#212234'
+    cherryPickedCommitBgColor:
+      - '#353945'
+    cherryPickedCommitFgColor:
+      - '#7199ee'
+    markedBaseCommitFgColor:
+      - '#7199ee'
+    unstagedChangesColor:
+      - '#ee6d85'
+    defaultFgColor:
+      - '#a0a8cd'

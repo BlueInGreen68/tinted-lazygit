@@ -1,0 +1,34 @@
+#
+#
+# name: Still Alive
+# author: Derrick McKee (derrick.mckee@gmail.com), Tinted Theming (https://github.com/tinted-theming)
+# slug: still-alive
+# slug-underscored: still_alive
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#365eff'
+      - bold
+    inactiveBorderColor:
+      - '#a3a3a3'
+    searchingActiveBorderColor:
+      - '#f0d848'
+    optionsTextColor:
+      - '#365eff'
+    selectedLineBgColor:
+      - '#bdbdbd'
+    cherryPickedCommitBgColor:
+      - '#a3a3a3'
+    cherryPickedCommitFgColor:
+      - '#365eff'
+    markedBaseCommitFgColor:
+      - '#365eff'
+    unstagedChangesColor:
+      - '#d80000'
+    defaultFgColor:
+      - '#4c383b'

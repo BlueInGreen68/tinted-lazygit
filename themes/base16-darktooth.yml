@@ -1,0 +1,34 @@
+#
+#
+# name: Darktooth
+# author: Jason Milkins (https://github.com/jasonm23)
+# slug: darktooth
+# slug-underscored: darktooth
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0d6678'
+      - bold
+    inactiveBorderColor:
+      - '#665c54'
+    searchingActiveBorderColor:
+      - '#fe8625'
+    optionsTextColor:
+      - '#0d6678'
+    selectedLineBgColor:
+      - '#504945'
+    cherryPickedCommitBgColor:
+      - '#665c54'
+    cherryPickedCommitFgColor:
+      - '#0d6678'
+    markedBaseCommitFgColor:
+      - '#0d6678'
+    unstagedChangesColor:
+      - '#fb543f'
+    defaultFgColor:
+      - '#a89984'

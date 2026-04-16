@@ -1,0 +1,34 @@
+#
+#
+# name: Shapeshifter
+# author: Tyler Benziger (http://tybenz.com)
+# slug: shapeshifter
+# slug-underscored: shapeshifter
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3b48e3'
+      - bold
+    inactiveBorderColor:
+      - '#555555'
+    searchingActiveBorderColor:
+      - '#e09448'
+    optionsTextColor:
+      - '#3b48e3'
+    selectedLineBgColor:
+      - '#ababab'
+    cherryPickedCommitBgColor:
+      - '#555555'
+    cherryPickedCommitFgColor:
+      - '#3b48e3'
+    markedBaseCommitFgColor:
+      - '#3b48e3'
+    unstagedChangesColor:
+      - '#e92f2f'
+    defaultFgColor:
+      - '#102015'

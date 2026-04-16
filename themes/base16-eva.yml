@@ -1,0 +1,34 @@
+#
+#
+# name: Eva
+# author: kjakapat (https://github.com/kjakapat)
+# slug: eva
+# slug-underscored: eva
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#15f4ee'
+      - bold
+    inactiveBorderColor:
+      - '#55799c'
+    searchingActiveBorderColor:
+      - '#ff9966'
+    optionsTextColor:
+      - '#15f4ee'
+    selectedLineBgColor:
+      - '#4b6988'
+    cherryPickedCommitBgColor:
+      - '#55799c'
+    cherryPickedCommitFgColor:
+      - '#15f4ee'
+    markedBaseCommitFgColor:
+      - '#15f4ee'
+    unstagedChangesColor:
+      - '#c4676c'
+    defaultFgColor:
+      - '#9fa2a6'

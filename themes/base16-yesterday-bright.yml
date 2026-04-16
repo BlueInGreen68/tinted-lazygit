@@ -1,0 +1,34 @@
+#
+#
+# name: Yesterday Bright
+# author: FroZnShiva (https://github.com/FroZnShiva)
+# slug: yesterday-bright
+# slug-underscored: yesterday_bright
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7aa6da'
+      - bold
+    inactiveBorderColor:
+      - '#a7adba'
+    searchingActiveBorderColor:
+      - '#e78c45'
+    optionsTextColor:
+      - '#7aa6da'
+    selectedLineBgColor:
+      - '#65737e'
+    cherryPickedCommitBgColor:
+      - '#a7adba'
+    cherryPickedCommitFgColor:
+      - '#7aa6da'
+    markedBaseCommitFgColor:
+      - '#7aa6da'
+    unstagedChangesColor:
+      - '#d54e53'
+    defaultFgColor:
+      - '#dfe1e8'

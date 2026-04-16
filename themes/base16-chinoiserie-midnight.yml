@@ -1,0 +1,34 @@
+#
+#
+# name: Chinoiserie Midnight
+# author: Di Wang (https://cs.cmu.edu/~diw3)
+# slug: chinoiserie-midnight
+# slug-underscored: chinoiserie_midnight
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#81a2a2'
+      - bold
+    inactiveBorderColor:
+      - '#918072'
+    searchingActiveBorderColor:
+      - '#fc8c23'
+    optionsTextColor:
+      - '#81a2a2'
+    selectedLineBgColor:
+      - '#373737'
+    cherryPickedCommitBgColor:
+      - '#918072'
+    cherryPickedCommitFgColor:
+      - '#81a2a2'
+    markedBaseCommitFgColor:
+      - '#81a2a2'
+    unstagedChangesColor:
+      - '#ed5a56'
+    defaultFgColor:
+      - '#c4cbcf'

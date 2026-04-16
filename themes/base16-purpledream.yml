@@ -1,0 +1,34 @@
+#
+#
+# name: Purpledream
+# author: malet
+# slug: purpledream
+# slug-underscored: purpledream
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00a0f0'
+      - bold
+    inactiveBorderColor:
+      - '#605060'
+    searchingActiveBorderColor:
+      - '#ccae14'
+    optionsTextColor:
+      - '#00a0f0'
+    selectedLineBgColor:
+      - '#403040'
+    cherryPickedCommitBgColor:
+      - '#605060'
+    cherryPickedCommitFgColor:
+      - '#00a0f0'
+    markedBaseCommitFgColor:
+      - '#00a0f0'
+    unstagedChangesColor:
+      - '#ff1d0d'
+    defaultFgColor:
+      - '#ddd0dd'

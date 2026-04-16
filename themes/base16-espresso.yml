@@ -1,0 +1,34 @@
+#
+#
+# name: Espresso
+# author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# slug: espresso
+# slug-underscored: espresso
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6c99bb'
+      - bold
+    inactiveBorderColor:
+      - '#777777'
+    searchingActiveBorderColor:
+      - '#f9a959'
+    optionsTextColor:
+      - '#6c99bb'
+    selectedLineBgColor:
+      - '#515151'
+    cherryPickedCommitBgColor:
+      - '#777777'
+    cherryPickedCommitFgColor:
+      - '#6c99bb'
+    markedBaseCommitFgColor:
+      - '#6c99bb'
+    unstagedChangesColor:
+      - '#d25252'
+    defaultFgColor:
+      - '#cccccc'

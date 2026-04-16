@@ -1,0 +1,34 @@
+#
+#
+# name: Apprentice
+# author: romainl
+# slug: apprentice
+# slug-underscored: apprentice
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8787af'
+      - bold
+    inactiveBorderColor:
+      - '#87875f'
+    searchingActiveBorderColor:
+      - '#ff8700'
+    optionsTextColor:
+      - '#8787af'
+    selectedLineBgColor:
+      - '#5f875f'
+    cherryPickedCommitBgColor:
+      - '#87875f'
+    cherryPickedCommitFgColor:
+      - '#8787af'
+    markedBaseCommitFgColor:
+      - '#8787af'
+    unstagedChangesColor:
+      - '#444444'
+    defaultFgColor:
+      - '#5f5f87'

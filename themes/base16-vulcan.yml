@@ -1,0 +1,34 @@
+#
+#
+# name: vulcan
+# author: Andrey Varfolomeev
+# slug: vulcan
+# slug-underscored: vulcan
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#977d7c'
+      - bold
+    inactiveBorderColor:
+      - '#7a5759'
+    searchingActiveBorderColor:
+      - '#9198a3'
+    optionsTextColor:
+      - '#977d7c'
+    selectedLineBgColor:
+      - '#003552'
+    cherryPickedCommitBgColor:
+      - '#7a5759'
+    cherryPickedCommitFgColor:
+      - '#977d7c'
+    markedBaseCommitFgColor:
+      - '#977d7c'
+    unstagedChangesColor:
+      - '#818591'
+    defaultFgColor:
+      - '#5b778c'

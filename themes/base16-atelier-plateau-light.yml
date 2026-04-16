@@ -1,0 +1,34 @@
+#
+#
+# name: Atelier Plateau Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-plateau-light
+# slug-underscored: atelier_plateau_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7272ca'
+      - bold
+    inactiveBorderColor:
+      - '#7e7777'
+    searchingActiveBorderColor:
+      - '#b45a3c'
+    optionsTextColor:
+      - '#7272ca'
+    selectedLineBgColor:
+      - '#8a8585'
+    cherryPickedCommitBgColor:
+      - '#7e7777'
+    cherryPickedCommitFgColor:
+      - '#7272ca'
+    markedBaseCommitFgColor:
+      - '#7272ca'
+    unstagedChangesColor:
+      - '#ca4949'
+    defaultFgColor:
+      - '#585050'

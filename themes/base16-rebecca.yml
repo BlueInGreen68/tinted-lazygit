@@ -1,0 +1,34 @@
+#
+#
+# name: Rebecca
+# author: Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+# slug: rebecca
+# slug-underscored: rebecca
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2de0a7'
+      - bold
+    inactiveBorderColor:
+      - '#666699'
+    searchingActiveBorderColor:
+      - '#efe4a1'
+    optionsTextColor:
+      - '#2de0a7'
+    selectedLineBgColor:
+      - '#383a62'
+    cherryPickedCommitBgColor:
+      - '#666699'
+    cherryPickedCommitFgColor:
+      - '#2de0a7'
+    markedBaseCommitFgColor:
+      - '#2de0a7'
+    unstagedChangesColor:
+      - '#a0a0c5'
+    defaultFgColor:
+      - '#f1eff8'

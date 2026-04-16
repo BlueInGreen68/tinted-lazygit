@@ -1,0 +1,34 @@
+#
+#
+# name: Windows NT
+# author: Fergus Collins (https://github.com/ferguscollins)
+# slug: windows-nt
+# slug-underscored: windows_nt
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#0000ff'
+      - bold
+    inactiveBorderColor:
+      - '#808080'
+    searchingActiveBorderColor:
+      - '#808000'
+    optionsTextColor:
+      - '#0000ff'
+    selectedLineBgColor:
+      - '#555555'
+    cherryPickedCommitBgColor:
+      - '#808080'
+    cherryPickedCommitFgColor:
+      - '#0000ff'
+    markedBaseCommitFgColor:
+      - '#0000ff'
+    unstagedChangesColor:
+      - '#ff0000'
+    defaultFgColor:
+      - '#c0c0c0'

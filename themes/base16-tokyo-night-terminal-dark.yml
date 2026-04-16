@@ -1,0 +1,34 @@
+#
+#
+# name: Tokyo Night Terminal Dark
+# author: Michaël Ball
+# slug: tokyo-night-terminal-dark
+# slug-underscored: tokyo_night_terminal_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7aa2f7'
+      - bold
+    inactiveBorderColor:
+      - '#444b6a'
+    searchingActiveBorderColor:
+      - '#ff9e64'
+    optionsTextColor:
+      - '#7aa2f7'
+    selectedLineBgColor:
+      - '#2f3549'
+    cherryPickedCommitBgColor:
+      - '#444b6a'
+    cherryPickedCommitFgColor:
+      - '#7aa2f7'
+    markedBaseCommitFgColor:
+      - '#7aa2f7'
+    unstagedChangesColor:
+      - '#f7768e'
+    defaultFgColor:
+      - '#787c99'

@@ -1,0 +1,34 @@
+#
+#
+# name: Solar Flare
+# author: Chuck Harmston (https://chuck.harmston.ch)
+# slug: solarflare
+# slug-underscored: solarflare
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#33b5e1'
+      - bold
+    inactiveBorderColor:
+      - '#667581'
+    searchingActiveBorderColor:
+      - '#e66b2b'
+    optionsTextColor:
+      - '#33b5e1'
+    selectedLineBgColor:
+      - '#586875'
+    cherryPickedCommitBgColor:
+      - '#667581'
+    cherryPickedCommitFgColor:
+      - '#33b5e1'
+    markedBaseCommitFgColor:
+      - '#33b5e1'
+    unstagedChangesColor:
+      - '#ef5253'
+    defaultFgColor:
+      - '#a6afb8'

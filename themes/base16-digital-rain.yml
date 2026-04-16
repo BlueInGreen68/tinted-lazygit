@@ -1,0 +1,34 @@
+#
+#
+# name: Digital Rain
+# author: Nathan Byrd (https://github.com/cognitivegears)
+# slug: digital-rain
+# slug-underscored: digital_rain
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5482af'
+      - bold
+    inactiveBorderColor:
+      - '#7c8d7c'
+    searchingActiveBorderColor:
+      - '#c86428'
+    optionsTextColor:
+      - '#5482af'
+    selectedLineBgColor:
+      - '#4a8d7e'
+    cherryPickedCommitBgColor:
+      - '#7c8d7c'
+    cherryPickedCommitFgColor:
+      - '#5482af'
+    markedBaseCommitFgColor:
+      - '#5482af'
+    unstagedChangesColor:
+      - '#c85a46'
+    defaultFgColor:
+      - '#00ff00'

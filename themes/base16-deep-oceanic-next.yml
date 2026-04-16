@@ -1,0 +1,34 @@
+#
+#
+# name: Deep Oceanic Next
+# author: spearkkk (https://github.com/spearkkk)
+# slug: deep-oceanic-next
+# slug-underscored: deep_oceanic_next
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#568ccf'
+      - bold
+    inactiveBorderColor:
+      - '#004852'
+    searchingActiveBorderColor:
+      - '#e37552'
+    optionsTextColor:
+      - '#568ccf'
+    selectedLineBgColor:
+      - '#003640'
+    cherryPickedCommitBgColor:
+      - '#004852'
+    cherryPickedCommitFgColor:
+      - '#568ccf'
+    markedBaseCommitFgColor:
+      - '#568ccf'
+    unstagedChangesColor:
+      - '#d3464d'
+    defaultFgColor:
+      - '#d4e1e8'

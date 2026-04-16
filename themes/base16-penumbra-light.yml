@@ -1,0 +1,34 @@
+#
+#
+# name: Penumbra Light
+# author: Zachary Weiss (https://github.com/zacharyweiss)
+# slug: penumbra-light
+# slug-underscored: penumbra_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5794d0'
+      - bold
+    inactiveBorderColor:
+      - '#bebebe'
+    searchingActiveBorderColor:
+      - '#ba823a'
+    optionsTextColor:
+      - '#5794d0'
+    selectedLineBgColor:
+      - '#f2e6d4'
+    cherryPickedCommitBgColor:
+      - '#bebebe'
+    cherryPickedCommitFgColor:
+      - '#5794d0'
+    markedBaseCommitFgColor:
+      - '#5794d0'
+    unstagedChangesColor:
+      - '#ca736c'
+    defaultFgColor:
+      - '#636363'

@@ -1,0 +1,34 @@
+#
+#
+# name: booshnickle dark
+# author: Honey D (@honeydbeatz)
+# slug: booshnickle-dark
+# slug-underscored: booshnickle_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#ccbfd9'
+      - bold
+    inactiveBorderColor:
+      - '#7c7c63'
+    searchingActiveBorderColor:
+      - '#ffdc99'
+    optionsTextColor:
+      - '#ccbfd9'
+    selectedLineBgColor:
+      - '#5b5b49'
+    cherryPickedCommitBgColor:
+      - '#7c7c63'
+    cherryPickedCommitFgColor:
+      - '#ccbfd9'
+    markedBaseCommitFgColor:
+      - '#ccbfd9'
+    unstagedChangesColor:
+      - '#ffbfa5'
+    defaultFgColor:
+      - '#bdbd97'

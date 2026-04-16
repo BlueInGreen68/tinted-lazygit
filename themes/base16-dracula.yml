@@ -1,0 +1,34 @@
+#
+#
+# name: Dracula
+# author: clach04 (https://github.com/clach04)
+# slug: dracula
+# slug-underscored: dracula
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#bd93f9'
+      - bold
+    inactiveBorderColor:
+      - '#6272a4'
+    searchingActiveBorderColor:
+      - '#ffb86c'
+    optionsTextColor:
+      - '#bd93f9'
+    selectedLineBgColor:
+      - '#44475a'
+    cherryPickedCommitBgColor:
+      - '#6272a4'
+    cherryPickedCommitFgColor:
+      - '#bd93f9'
+    markedBaseCommitFgColor:
+      - '#bd93f9'
+    unstagedChangesColor:
+      - '#ff5555'
+    defaultFgColor:
+      - '#f8f8f2'

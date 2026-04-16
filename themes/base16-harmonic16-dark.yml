@@ -1,0 +1,34 @@
+#
+#
+# name: Harmonic16 Dark
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: harmonic16-dark
+# slug-underscored: harmonic16_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8b56bf'
+      - bold
+    inactiveBorderColor:
+      - '#627e99'
+    searchingActiveBorderColor:
+      - '#bfbf56'
+    optionsTextColor:
+      - '#8b56bf'
+    selectedLineBgColor:
+      - '#405c79'
+    cherryPickedCommitBgColor:
+      - '#627e99'
+    cherryPickedCommitFgColor:
+      - '#8b56bf'
+    markedBaseCommitFgColor:
+      - '#8b56bf'
+    unstagedChangesColor:
+      - '#bf8b56'
+    defaultFgColor:
+      - '#cbd6e2'

@@ -1,0 +1,34 @@
+#
+#
+# name: Black Metal (Immortal)
+# author: metalelf0 (https://github.com/metalelf0)
+# slug: black-metal-immortal
+# slug-underscored: black_metal_immortal
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#888888'
+      - bold
+    inactiveBorderColor:
+      - '#333333'
+    searchingActiveBorderColor:
+      - '#aaaaaa'
+    optionsTextColor:
+      - '#888888'
+    selectedLineBgColor:
+      - '#222222'
+    cherryPickedCommitBgColor:
+      - '#333333'
+    cherryPickedCommitFgColor:
+      - '#888888'
+    markedBaseCommitFgColor:
+      - '#888888'
+    unstagedChangesColor:
+      - '#5f8787'
+    defaultFgColor:
+      - '#c1c1c1'

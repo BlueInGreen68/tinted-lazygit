@@ -1,0 +1,34 @@
+#
+#
+# name: Zenbones
+# author: mcchrish
+# slug: zenbones
+# slug-underscored: zenbones
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#cf86c1'
+      - bold
+    inactiveBorderColor:
+      - '#b77e64'
+    searchingActiveBorderColor:
+      - '#e8838f'
+    optionsTextColor:
+      - '#cf86c1'
+    selectedLineBgColor:
+      - '#819b69'
+    cherryPickedCommitBgColor:
+      - '#b77e64'
+    cherryPickedCommitFgColor:
+      - '#cf86c1'
+    markedBaseCommitFgColor:
+      - '#cf86c1'
+    unstagedChangesColor:
+      - '#3d3839'
+    defaultFgColor:
+      - '#b279a7'

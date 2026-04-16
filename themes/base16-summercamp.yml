@@ -1,0 +1,34 @@
+#
+#
+# name: summercamp
+# author: zoe firi (zoefiri.github.io)
+# slug: summercamp
+# slug-underscored: summercamp
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#489bf0'
+      - bold
+    inactiveBorderColor:
+      - '#504b38'
+    searchingActiveBorderColor:
+      - '#fba11b'
+    optionsTextColor:
+      - '#489bf0'
+    selectedLineBgColor:
+      - '#3a3527'
+    cherryPickedCommitBgColor:
+      - '#504b38'
+    cherryPickedCommitFgColor:
+      - '#489bf0'
+    markedBaseCommitFgColor:
+      - '#489bf0'
+    unstagedChangesColor:
+      - '#e35142'
+    defaultFgColor:
+      - '#736e55'

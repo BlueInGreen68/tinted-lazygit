@@ -1,0 +1,34 @@
+#
+#
+# name: Atlas
+# author: Alex Lende (https://ajlende.com)
+# slug: atlas
+# slug-underscored: atlas
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#14747e'
+      - bold
+    inactiveBorderColor:
+      - '#6c8b91'
+    searchingActiveBorderColor:
+      - '#f08e48'
+    optionsTextColor:
+      - '#14747e'
+    selectedLineBgColor:
+      - '#517f8d'
+    cherryPickedCommitBgColor:
+      - '#6c8b91'
+    cherryPickedCommitFgColor:
+      - '#14747e'
+    markedBaseCommitFgColor:
+      - '#14747e'
+    unstagedChangesColor:
+      - '#ff5a67'
+    defaultFgColor:
+      - '#a1a19a'

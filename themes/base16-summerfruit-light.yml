@@ -1,0 +1,34 @@
+#
+#
+# name: Summerfruit Light
+# author: Christopher Corley (http://christop.club/)
+# slug: summerfruit-light
+# slug-underscored: summerfruit_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3777e6'
+      - bold
+    inactiveBorderColor:
+      - '#b0b0b0'
+    searchingActiveBorderColor:
+      - '#fd8900'
+    optionsTextColor:
+      - '#3777e6'
+    selectedLineBgColor:
+      - '#d0d0d0'
+    cherryPickedCommitBgColor:
+      - '#b0b0b0'
+    cherryPickedCommitFgColor:
+      - '#3777e6'
+    markedBaseCommitFgColor:
+      - '#3777e6'
+    unstagedChangesColor:
+      - '#ff0086'
+    defaultFgColor:
+      - '#101010'

@@ -1,0 +1,34 @@
+#
+#
+# name: PaperColor Light
+# author: Jon Leopard (http://github.com/jonleopard), Tinted Theming (https://github.com/tinted-theming), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# slug: papercolor-light
+# slug-underscored: papercolor_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#005f87'
+      - bold
+    inactiveBorderColor:
+      - '#858585'
+    searchingActiveBorderColor:
+      - '#d75f00'
+    optionsTextColor:
+      - '#005f87'
+    selectedLineBgColor:
+      - '#9e9e9e'
+    cherryPickedCommitBgColor:
+      - '#858585'
+    cherryPickedCommitFgColor:
+      - '#005f87'
+    markedBaseCommitFgColor:
+      - '#005f87'
+    unstagedChangesColor:
+      - '#d70000'
+    defaultFgColor:
+      - '#5e5e5e'

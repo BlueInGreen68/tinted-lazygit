@@ -1,0 +1,34 @@
+#
+#
+# name: Atelier Cave Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-cave-light
+# slug-underscored: atelier_cave_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#576ddb'
+      - bold
+    inactiveBorderColor:
+      - '#7e7887'
+    searchingActiveBorderColor:
+      - '#aa573c'
+    optionsTextColor:
+      - '#576ddb'
+    selectedLineBgColor:
+      - '#8b8792'
+    cherryPickedCommitBgColor:
+      - '#7e7887'
+    cherryPickedCommitFgColor:
+      - '#576ddb'
+    markedBaseCommitFgColor:
+      - '#576ddb'
+    unstagedChangesColor:
+      - '#be4678'
+    defaultFgColor:
+      - '#585260'

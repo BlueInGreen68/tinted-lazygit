@@ -1,0 +1,34 @@
+#
+#
+# name: Summerfruit Dark
+# author: Christopher Corley (http://christop.club/)
+# slug: summerfruit-dark
+# slug-underscored: summerfruit_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3777e6'
+      - bold
+    inactiveBorderColor:
+      - '#505050'
+    searchingActiveBorderColor:
+      - '#fd8900'
+    optionsTextColor:
+      - '#3777e6'
+    selectedLineBgColor:
+      - '#303030'
+    cherryPickedCommitBgColor:
+      - '#505050'
+    cherryPickedCommitFgColor:
+      - '#3777e6'
+    markedBaseCommitFgColor:
+      - '#3777e6'
+    unstagedChangesColor:
+      - '#ff0086'
+    defaultFgColor:
+      - '#d0d0d0'

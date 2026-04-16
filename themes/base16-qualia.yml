@@ -1,0 +1,34 @@
+#
+#
+# name: Qualia
+# author: isaacwhanson
+# slug: qualia
+# slug-underscored: qualia
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#50cacd'
+      - bold
+    inactiveBorderColor:
+      - '#454545'
+    searchingActiveBorderColor:
+      - '#a3b8ef'
+    optionsTextColor:
+      - '#50cacd'
+    selectedLineBgColor:
+      - '#454545'
+    cherryPickedCommitBgColor:
+      - '#454545'
+    cherryPickedCommitFgColor:
+      - '#50cacd'
+    markedBaseCommitFgColor:
+      - '#50cacd'
+    unstagedChangesColor:
+      - '#efa6a2'
+    defaultFgColor:
+      - '#c0c0c0'

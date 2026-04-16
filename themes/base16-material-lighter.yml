@@ -1,0 +1,34 @@
+#
+#
+# name: Material Lighter
+# author: Nate Peterson
+# slug: material-lighter
+# slug-underscored: material_lighter
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6182b8'
+      - bold
+    inactiveBorderColor:
+      - '#ccd7da'
+    searchingActiveBorderColor:
+      - '#f76d47'
+    optionsTextColor:
+      - '#6182b8'
+    selectedLineBgColor:
+      - '#cceae7'
+    cherryPickedCommitBgColor:
+      - '#ccd7da'
+    cherryPickedCommitFgColor:
+      - '#6182b8'
+    markedBaseCommitFgColor:
+      - '#6182b8'
+    unstagedChangesColor:
+      - '#ff5370'
+    defaultFgColor:
+      - '#80cbc4'

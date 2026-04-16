@@ -1,0 +1,34 @@
+#
+#
+# name: Flexoki Light
+# author: Steph Ango (https://github.com/kepano/flexoki)
+# slug: flexoki-light
+# slug-underscored: flexoki_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#205ea6'
+      - bold
+    inactiveBorderColor:
+      - '#cecdc3'
+    searchingActiveBorderColor:
+      - '#bc5215'
+    optionsTextColor:
+      - '#205ea6'
+    selectedLineBgColor:
+      - '#e6e4d9'
+    cherryPickedCommitBgColor:
+      - '#cecdc3'
+    cherryPickedCommitFgColor:
+      - '#205ea6'
+    markedBaseCommitFgColor:
+      - '#205ea6'
+    unstagedChangesColor:
+      - '#af3029'
+    defaultFgColor:
+      - '#403e3c'

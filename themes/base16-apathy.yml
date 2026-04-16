@@ -1,0 +1,34 @@
+#
+#
+# name: Apathy
+# author: Jannik Siebert (https://github.com/janniks)
+# slug: apathy
+# slug-underscored: apathy
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#96883e'
+      - bold
+    inactiveBorderColor:
+      - '#2b685e'
+    searchingActiveBorderColor:
+      - '#3e7996'
+    optionsTextColor:
+      - '#96883e'
+    selectedLineBgColor:
+      - '#184e45'
+    cherryPickedCommitBgColor:
+      - '#2b685e'
+    cherryPickedCommitFgColor:
+      - '#96883e'
+    markedBaseCommitFgColor:
+      - '#96883e'
+    unstagedChangesColor:
+      - '#3e9688'
+    defaultFgColor:
+      - '#81b5ac'

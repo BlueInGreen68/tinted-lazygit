@@ -1,0 +1,34 @@
+#
+#
+# name: Stella
+# author: Shrimpram
+# slug: stella
+# slug-underscored: stella
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a5aad4'
+      - bold
+    inactiveBorderColor:
+      - '#655978'
+    searchingActiveBorderColor:
+      - '#8865c6'
+    optionsTextColor:
+      - '#a5aad4'
+    selectedLineBgColor:
+      - '#4d4160'
+    cherryPickedCommitBgColor:
+      - '#655978'
+    cherryPickedCommitFgColor:
+      - '#a5aad4'
+    markedBaseCommitFgColor:
+      - '#a5aad4'
+    unstagedChangesColor:
+      - '#c79987'
+    defaultFgColor:
+      - '#998bad'

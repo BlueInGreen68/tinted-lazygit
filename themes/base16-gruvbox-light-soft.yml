@@ -1,0 +1,34 @@
+#
+#
+# name: Gruvbox light, soft
+# author: Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-light-soft
+# slug-underscored: gruvbox_light_soft
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#076678'
+      - bold
+    inactiveBorderColor:
+      - '#bdae93'
+    searchingActiveBorderColor:
+      - '#af3a03'
+    optionsTextColor:
+      - '#076678'
+    selectedLineBgColor:
+      - '#d5c4a1'
+    cherryPickedCommitBgColor:
+      - '#bdae93'
+    cherryPickedCommitFgColor:
+      - '#076678'
+    markedBaseCommitFgColor:
+      - '#076678'
+    unstagedChangesColor:
+      - '#9d0006'
+    defaultFgColor:
+      - '#504945'

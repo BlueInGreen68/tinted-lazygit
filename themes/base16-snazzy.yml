@@ -1,0 +1,34 @@
+#
+#
+# name: Snazzy
+# author: Chawye Hsu (https://github.com/chawyehsu), based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# slug: snazzy
+# slug-underscored: snazzy
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#57c7ff'
+      - bold
+    inactiveBorderColor:
+      - '#78787e'
+    searchingActiveBorderColor:
+      - '#ff9f43'
+    optionsTextColor:
+      - '#57c7ff'
+    selectedLineBgColor:
+      - '#43454f'
+    cherryPickedCommitBgColor:
+      - '#78787e'
+    cherryPickedCommitFgColor:
+      - '#57c7ff'
+    markedBaseCommitFgColor:
+      - '#57c7ff'
+    unstagedChangesColor:
+      - '#ff5c57'
+    defaultFgColor:
+      - '#e2e4e5'

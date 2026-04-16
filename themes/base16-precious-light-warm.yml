@@ -1,0 +1,34 @@
+#
+#
+# name: Precious Light Warm
+# author: 4lex4 <4lex49@zoho.com>
+# slug: precious-light-warm
+# slug-underscored: precious_light_warm
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#246da5'
+      - bold
+    inactiveBorderColor:
+      - '#7f8080'
+    searchingActiveBorderColor:
+      - '#a25600'
+    optionsTextColor:
+      - '#246da5'
+    selectedLineBgColor:
+      - '#d9d3c8'
+    cherryPickedCommitBgColor:
+      - '#7f8080'
+    cherryPickedCommitFgColor:
+      - '#246da5'
+    markedBaseCommitFgColor:
+      - '#246da5'
+    unstagedChangesColor:
+      - '#b14745'
+    defaultFgColor:
+      - '#4e5359'

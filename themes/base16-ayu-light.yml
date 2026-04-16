@@ -1,0 +1,34 @@
+#
+#
+# name: Ayu Light
+# author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
+# slug: ayu-light
+# slug-underscored: ayu_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#399ee6'
+      - bold
+    inactiveBorderColor:
+      - '#a0a6ac'
+    searchingActiveBorderColor:
+      - '#fa8d3e'
+    optionsTextColor:
+      - '#399ee6'
+    selectedLineBgColor:
+      - '#d2d4d8'
+    cherryPickedCommitBgColor:
+      - '#a0a6ac'
+    cherryPickedCommitFgColor:
+      - '#399ee6'
+    markedBaseCommitFgColor:
+      - '#399ee6'
+    unstagedChangesColor:
+      - '#f07171'
+    defaultFgColor:
+      - '#5c6166'

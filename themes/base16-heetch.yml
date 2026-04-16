@@ -1,0 +1,34 @@
+#
+#
+# name: Heetch Dark
+# author: Geoffrey Teale (tealeg@gmail.com)
+# slug: heetch
+# slug-underscored: heetch
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#bd0152'
+      - bold
+    inactiveBorderColor:
+      - '#7b6d8b'
+    searchingActiveBorderColor:
+      - '#5ba2b6'
+    optionsTextColor:
+      - '#bd0152'
+    selectedLineBgColor:
+      - '#5a496e'
+    cherryPickedCommitBgColor:
+      - '#7b6d8b'
+    cherryPickedCommitFgColor:
+      - '#bd0152'
+    markedBaseCommitFgColor:
+      - '#bd0152'
+    unstagedChangesColor:
+      - '#27d9d5'
+    defaultFgColor:
+      - '#bdb6c5'

@@ -1,0 +1,34 @@
+#
+#
+# name: darkmoss
+# author: Gabriel Avanzi (https://github.com/avanzzzi)
+# slug: darkmoss
+# slug-underscored: darkmoss
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#498091'
+      - bold
+    inactiveBorderColor:
+      - '#555e5f'
+    searchingActiveBorderColor:
+      - '#e6db74'
+    optionsTextColor:
+      - '#498091'
+    selectedLineBgColor:
+      - '#373c3d'
+    cherryPickedCommitBgColor:
+      - '#555e5f'
+    cherryPickedCommitFgColor:
+      - '#498091'
+    markedBaseCommitFgColor:
+      - '#498091'
+    unstagedChangesColor:
+      - '#ff4658'
+    defaultFgColor:
+      - '#c7c7a5'

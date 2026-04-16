@@ -1,0 +1,34 @@
+#
+#
+# name: 3024
+# author: Jan T. Sott (http://github.com/idleberg)
+# slug: 3024
+# slug-underscored: 3024
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#01a0e4'
+      - bold
+    inactiveBorderColor:
+      - '#5c5855'
+    searchingActiveBorderColor:
+      - '#e8bbd0'
+    optionsTextColor:
+      - '#01a0e4'
+    selectedLineBgColor:
+      - '#4a4543'
+    cherryPickedCommitBgColor:
+      - '#5c5855'
+    cherryPickedCommitFgColor:
+      - '#01a0e4'
+    markedBaseCommitFgColor:
+      - '#01a0e4'
+    unstagedChangesColor:
+      - '#db2d20'
+    defaultFgColor:
+      - '#a5a2a2'

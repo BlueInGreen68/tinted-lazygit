@@ -1,0 +1,34 @@
+#
+#
+# name: Linux VT
+# author: j-c-m (https://github.com/j-c-m/)
+# slug: linux-vt
+# slug-underscored: linux_vt
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5555ff'
+      - bold
+    inactiveBorderColor:
+      - '#555555'
+    searchingActiveBorderColor:
+      - '#ff5555'
+    optionsTextColor:
+      - '#5555ff'
+    selectedLineBgColor:
+      - '#444444'
+    cherryPickedCommitBgColor:
+      - '#555555'
+    cherryPickedCommitFgColor:
+      - '#5555ff'
+    markedBaseCommitFgColor:
+      - '#5555ff'
+    unstagedChangesColor:
+      - '#aa0000'
+    defaultFgColor:
+      - '#aaaaaa'

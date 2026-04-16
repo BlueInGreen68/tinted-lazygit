@@ -1,0 +1,34 @@
+#
+#
+# name: Catppuccin Frappe
+# author: https://github.com/catppuccin/catppuccin
+# slug: catppuccin-frappe
+# slug-underscored: catppuccin_frappe
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8caaee'
+      - bold
+    inactiveBorderColor:
+      - '#51576d'
+    searchingActiveBorderColor:
+      - '#ef9f76'
+    optionsTextColor:
+      - '#8caaee'
+    selectedLineBgColor:
+      - '#414559'
+    cherryPickedCommitBgColor:
+      - '#51576d'
+    cherryPickedCommitFgColor:
+      - '#8caaee'
+    markedBaseCommitFgColor:
+      - '#8caaee'
+    unstagedChangesColor:
+      - '#e78284'
+    defaultFgColor:
+      - '#c6d0f5'

@@ -1,0 +1,34 @@
+#
+#
+# name: Yesterday
+# author: FroZnShiva (https://github.com/FroZnShiva)
+# slug: yesterday
+# slug-underscored: yesterday
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4271ae'
+      - bold
+    inactiveBorderColor:
+      - '#969896'
+    searchingActiveBorderColor:
+      - '#f5871f'
+    optionsTextColor:
+      - '#4271ae'
+    selectedLineBgColor:
+      - '#4d4d4c'
+    cherryPickedCommitBgColor:
+      - '#969896'
+    cherryPickedCommitFgColor:
+      - '#4271ae'
+    markedBaseCommitFgColor:
+      - '#4271ae'
+    unstagedChangesColor:
+      - '#c82829'
+    defaultFgColor:
+      - '#d6d6d6'

@@ -1,0 +1,34 @@
+#
+#
+# name: Ascendancy
+# author: EmergentMind (https://github.com/emergentmind/ascendancy-scheme)
+# slug: ascendancy
+# slug-underscored: ascendancy
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#458588'
+      - bold
+    inactiveBorderColor:
+      - '#928374'
+    searchingActiveBorderColor:
+      - '#fe8019'
+    optionsTextColor:
+      - '#458588'
+    selectedLineBgColor:
+      - '#504945'
+    cherryPickedCommitBgColor:
+      - '#928374'
+    cherryPickedCommitFgColor:
+      - '#458588'
+    markedBaseCommitFgColor:
+      - '#458588'
+    unstagedChangesColor:
+      - '#d05000'
+    defaultFgColor:
+      - '#d5c7a1'

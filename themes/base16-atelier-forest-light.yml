@@ -1,0 +1,34 @@
+#
+#
+# name: Atelier Forest Light
+# author: Bram de Haan (http://atelierbramdehaan.nl)
+# slug: atelier-forest-light
+# slug-underscored: atelier_forest_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#407ee7'
+      - bold
+    inactiveBorderColor:
+      - '#9c9491'
+    searchingActiveBorderColor:
+      - '#df5320'
+    optionsTextColor:
+      - '#407ee7'
+    selectedLineBgColor:
+      - '#a8a19f'
+    cherryPickedCommitBgColor:
+      - '#9c9491'
+    cherryPickedCommitFgColor:
+      - '#407ee7'
+    markedBaseCommitFgColor:
+      - '#407ee7'
+    unstagedChangesColor:
+      - '#f22c40'
+    defaultFgColor:
+      - '#68615e'

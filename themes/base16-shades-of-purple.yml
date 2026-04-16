@@ -1,0 +1,34 @@
+#
+#
+# name: Shades of Purple
+# author: Iolar Demartini Junior (http://github.com/demartini), based on Shades of Purple Theme (https://github.com/ahmadawais/shades-of-purple-vscode)
+# slug: shades-of-purple
+# slug-underscored: shades_of_purple
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6943ff'
+      - bold
+    inactiveBorderColor:
+      - '#808080'
+    searchingActiveBorderColor:
+      - '#f92a1c'
+    optionsTextColor:
+      - '#6943ff'
+    selectedLineBgColor:
+      - '#f1d000'
+    cherryPickedCommitBgColor:
+      - '#808080'
+    cherryPickedCommitFgColor:
+      - '#6943ff'
+    markedBaseCommitFgColor:
+      - '#6943ff'
+    unstagedChangesColor:
+      - '#d90429'
+    defaultFgColor:
+      - '#c7c7c7'

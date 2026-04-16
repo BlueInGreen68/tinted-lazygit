@@ -1,0 +1,34 @@
+#
+#
+# name: Hardhacker
+# author: fe2-Nyxar, based on the https://github.com/hardhackerlabs
+# slug: hardhacker
+# slug-underscored: hardhacker
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#95a6f4'
+      - bold
+    inactiveBorderColor:
+      - '#6e6780'
+    searchingActiveBorderColor:
+      - '#f4b870'
+    optionsTextColor:
+      - '#95a6f4'
+    selectedLineBgColor:
+      - '#3f3951'
+    cherryPickedCommitBgColor:
+      - '#6e6780'
+    cherryPickedCommitFgColor:
+      - '#95a6f4'
+    markedBaseCommitFgColor:
+      - '#95a6f4'
+    unstagedChangesColor:
+      - '#e965a5'
+    defaultFgColor:
+      - '#e4dee9'

@@ -1,0 +1,34 @@
+#
+#
+# name: Hardcore
+# author: Chris Caller
+# slug: hardcore
+# slug-underscored: hardcore
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#66d9ef'
+      - bold
+    inactiveBorderColor:
+      - '#4a4a4a'
+    searchingActiveBorderColor:
+      - '#fd971f'
+    optionsTextColor:
+      - '#66d9ef'
+    selectedLineBgColor:
+      - '#353535'
+    cherryPickedCommitBgColor:
+      - '#4a4a4a'
+    cherryPickedCommitFgColor:
+      - '#66d9ef'
+    markedBaseCommitFgColor:
+      - '#66d9ef'
+    unstagedChangesColor:
+      - '#f92672'
+    defaultFgColor:
+      - '#cdcdcd'
