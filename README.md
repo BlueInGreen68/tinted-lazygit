@@ -43,13 +43,13 @@ supported-systems = ["base16"]
 2. Use a flag `--use-config-file` to combine multiple configuration files. In this case, it's the color scheme file that `tinty` generates automatically in `~/.local/share/tinted-theming/tinty/base16-nwg-dock-colors-file.css` and the main configuration `config.yml` file.
 
 ```bash
-lazygit --use-config-file="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/base16-lazygit-colors-file.yml"
+lazygit --use-config-file="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/tinted-lazygit-themes-file.yml"
 ```
 
 Or an environment variable `LG_CONFIG_FILE`.
 
 ```bash
-LG_CONFIG_FILE="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/base16-lazygit-colors-file.yml" lazygit
+LG_CONFIG_FILE="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/tinted-lazygit-themes-file.yml" lazygit
 ```
 
 3. `tinty apply base16-google-light` to change the theme to `base16-google-light`.
