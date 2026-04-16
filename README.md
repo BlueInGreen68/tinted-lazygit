@@ -40,7 +40,7 @@ themes-dir = "themes"
 supported-systems = ["base16"]
 ```
 
-2. Use a flag `--use-config-file` to combine multiple configuration files. In this case, it's the color scheme file that `tinty` generates automatically in `~/.local/share/tinted-theming/tinty/base16-nwg-dock-colors-file.css` and the main configuration `config.yml` file.
+2. Use a flag `--use-config-file` to combine multiple configuration files. In this case, it's the color scheme file that `tinty` generates automatically in `~/.local/share/tinted-theming/tinty/tinted-lazygit-themes-file.yml` and the main configuration `config.yml` file.
 
 ```bash
 lazygit --use-config-file="$XDG_CONFIG_HOME/lazygit/config.yml,$XDG_DATA_HOME/tinted-theming/tinty/tinted-lazygit-themes-file.yml"
